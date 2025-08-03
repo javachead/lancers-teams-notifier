@@ -16,7 +16,7 @@ HEADLESS_MODE = True
 
 # 弊社スキルセット（検索ワード優先版）
 COMPANY_SKILLS = {
-    "超高優先度": ["AI", "GPT", "ChatGPT", "Python", "API", "Django", "Next.js", "TypeScript", "機械学習"],
+    "超高優先度": ["AI", "GPT", "ChatGPT", "Python", "API", "Django", "Next.js","React","TypeScript", "機械学習"],
     "高優先度": ["bot", "Talend", "Java", "スマホアプリ", "モバイル開発", "人工知能"],
     "中優先度": ["効率化", "ツール", "開発", "システム開発", "React", "Node.js", "自動化", "スクレイピング"],
     "低優先度": ["PostgreSQL", "MySQL", "社内ツール", "業務改善", "アプリ", "サイト", "管理"],
@@ -27,7 +27,7 @@ COMPANY_SKILLS = {
 EXCLUDE_KEYWORDS = [
     "求人", "採用", "転職", "正社員", "アルバイト", "派遣",
     "コンペ", "コンペティション", "コンテスト",
-    "募集終了", "締切", "CAD",
+    "募集終了", "終了", "締切", "CAD",
 ]
 
 class CompleteJobsNotifier:
