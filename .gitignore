@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+# Playwright
+playwright-report/
+# 出力
+data/
+*.json
+teams_message.txt
+# OS雑多
+.DS_Store
+Thumbs.db
