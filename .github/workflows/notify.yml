@@ -37,4 +37,5 @@ jobs:
           pip install requests
 
       - name: Run notifier
+
         run: python fetch_lancers_improved.py
