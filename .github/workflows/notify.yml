@@ -1,1 +1,40 @@
-# のYAMLそのまま貼る
+name: Lancers Notify to Teams
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: '手動実行: 送信せずprintする？'
+        required: true
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+  schedule:
+    - cron: '0 7 * * TUE'    # 火曜16:00 JST
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    env:
+      TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+      DRY_RUN: ${{ github.event_name == 'schedule' && 'false' || inputs.dry_run || 'true' }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          pip install -r requirements.txt || true
+          python -m playwright install --with-deps || true
+          pip install requests
+
+      - name: Run notifier
+        run: python fetch_lancers_complete_fixed.py
