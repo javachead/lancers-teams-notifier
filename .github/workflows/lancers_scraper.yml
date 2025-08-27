@@ -1,0 +1,67 @@
+# .github/workflows/lancers_scraper.yml
+name: Lancers Scraper with Excel
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'    # 6時間ごと（UTC）
+  workflow_dispatch:
+
+# 同時実行で同じファイルを更新しない
+concurrency:
+  group: xlsx-append
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+          playwright install-deps
+
+      # 直前の更新を取り込み（rebaseで履歴を綺麗に）
+      - name: Pull latest
+        run: |
+          git config pull.rebase true
+          git pull origin main
+
+      - name: Run scraper (append to 案件情報.xlsx)
+        env:
+          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+          EXCEL_PATH: 案件情報.xlsx    # ← Actions は常にコレに追記
+        run: python fetch_lancers_improved.py
+
+      # 競合に強い push（軽いリトライ＆rebase）
+      - name: Commit and push with retry
+        run: |
+          set -e
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add "案件情報.xlsx" *.json || true
+          for i in 1 2 3 4 5; do
+            git diff --staged --quiet && { echo "No changes"; exit 0; }
+            git commit -m "Append: $(date +'%Y-%m-%d %H:%M') JST" || true
+            if git push; then
+              echo "Pushed on try $i"; exit 0
+            fi
+            echo "Push failed, pulling & retry ($i/5)"
+            git pull --rebase origin main || true
+            sleep 5
+          done
+          echo "Push failed after retries" >&2
+          exit 1
