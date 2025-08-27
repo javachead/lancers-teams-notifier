@@ -1,6 +1,4 @@
-playwright>=1.54.0
-beautifulsoup4>=4.12.0
-lxml>=6.0.0
-aiohttp>=3.9.0
-python-dotenv>=1.0.0
-requests>=2.31.0
+﻿playwright
+openpyxl
+aiohttp
+python-dotenv
