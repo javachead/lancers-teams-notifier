@@ -14,10 +14,30 @@ from datetime import datetime
 from playwright.async_api import async_playwright
 
 # ====== 環境設定 ======
-EXCEL_PATH = r"C:\Users\SUZUKI Natsumi\OneDrive - 株式会社ReySolid\案件情報.xlsx"
+EXCEL_PATH = r"C:\Users\SUZUKI Natsumi\株式会社ReySolid\【B】IT-Solution@ReySolid - 案件管理 - ドキュメント\案件管理\案件情報.xlsx"
 LANCERS_SEARCH_URL = "https://www.lancers.jp/work/search/system?budget_from=&budget_to=&work_rank%5B%5D=&work_rank%5B%5D=&work_rank%5B%5D=&keyword=&sort=work_post_date"
 MAX_JOBS_TO_FETCH = 100
 HEADLESS_MODE = True
+
+# または動的に選択
+def get_excel_path():
+    paths = [
+        r"C:\Users\SUZUKI Natsumi\株式会社ReySolid\【B】IT-Solution@ReySolid - 案件管理 - ドキュメント\案件管理\案件情報.xlsx",
+        r"C:\Users\SUZUKI Natsumi\OneDrive - 株式会社ReySolid\案件情報.xlsx"
+    ]
+    
+    for path in paths:
+        if os.path.exists(path):
+            print(f"📊 使用するExcelファイル: {path}")
+            # ファイルの更新日時を表示
+            mtime = datetime.fromtimestamp(os.path.getmtime(path))
+            print(f"   最終更新: {mtime}")
+            return path
+    
+    return paths[0]  # デフォルト
+
+EXCEL_PATH = get_excel_path()
+
 
 # 弊社スキルセット（検索ワード優先版）
 COMPANY_SKILLS = {
@@ -76,20 +96,35 @@ def _ensure_book_and_sheets(path: Path):
     if not path.exists():
         wb = openpyxl.Workbook()
         ws = wb.active
-        ws.title = "ランサーズ"  # 変更：案件 → ランサーズ
-        ws.append(["取得日時","タイトル","価格","応募者数","URL",
-                   "カテゴリ","スキル数","スキル概要","優先度スコア",
-                   "締切","急募","スクレイプ時刻"])
+        ws.title = "ランサーズ"
+        # シンプルなヘッダー構成に変更
+        ws.append([
+            "取得日時",
+            "タイトル", 
+            "カテゴリ",
+            "価格",
+            "締切",
+            "URL",
+            "優先度スコア",
+            "スキル概要"
+        ])
         stat = wb.create_sheet("統計")
         stat.append(["timestamp","count","type","skill_match_rate","no_skill_match","multi_skill_match","high_priority"])
         wb.save(path)
     else:
         wb = openpyxl.load_workbook(path)
-        if "ランサーズ" not in wb.sheetnames: 
+        if "ランサーズ" not in wb.sheetnames:
             ws = wb.create_sheet("ランサーズ")
-            ws.append(["取得日時","タイトル","価格","応募者数","URL",
-                       "カテゴリ","スキル数","スキル概要","優先度スコア",
-                       "締切","急募","スクレイプ時刻"])
+            ws.append([
+                "取得日時",
+                "タイトル",
+                "カテゴリ", 
+                "価格",
+                "締切",
+                "URL",
+                "優先度スコア",
+                "スキル概要"
+            ])
         if "統計" not in wb.sheetnames:
             stat = wb.create_sheet("統計")
             stat.append(["timestamp","count","type","skill_match_rate","no_skill_match","multi_skill_match","high_priority"])
@@ -99,35 +134,44 @@ def append_jobs_to_excel(data: dict, excel_path: str = EXCEL_PATH, dedupe_by_url
     try:
         path = Path(excel_path)
         wb = _ensure_book_and_sheets(path)
-        ws = wb["ランサーズ"]; stat = wb["統計"] 
+        ws = wb["ランサーズ"]
+        stat = wb["統計"]
 
         existing_urls = set()
         if dedupe_by_url:
             for row in ws.iter_rows(min_row=2, values_only=True):
-                if row and len(row) >= 5 and row[4]:
-                    existing_urls.add(row[4])
+                if row and len(row) >= 6 and row[5]:  # URL列は6番目
+                    existing_urls.add(row[5])
 
         now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         new_rows = 0
+        
         for job in data.get("jobs", []):
             url = job.get("link") or ""
             if dedupe_by_url and url in existing_urls:
                 continue
+                
+            # ヘッダーと同じ順序で追記
             ws.append([
-    now_str,                # 取得日時
-    job.get("title",""),    # 案件内容
-    job.get("category",""), # カテゴリー
-    job.get("price",""),    # 報酬額
-    job.get("deadline",""), # 応募締切
-    url,                    # URL
-    job.get("priority_score",""), # 優先度スコア
-    _format_skill_matches_compact_for_excel(job.get("skill_matches", [])) # 必要スキル
-])
+                now_str,                    # 取得日時
+                job.get("title",""),        # タイトル
+                job.get("category",""),     # カテゴリー
+                job.get("price",""),        # 価格
+                job.get("deadline",""),     # 締切
+                url,                        # URL
+                job.get("priority_score",""), # 優先度スコア
+                _format_skill_matches_compact_for_excel(job.get("skill_matches", []))  # スキル概要
+            ])
+            
             last = ws.max_row
-            ws.cell(row=last, column=5).hyperlink = url
-            ws.cell(row=last, column=5).style = "Hyperlink"
+            # URLにハイパーリンク設定（6列目）
+            if url:
+                ws.cell(row=last, column=6).hyperlink = url
+                ws.cell(row=last, column=6).style = "Hyperlink"
+            
             new_rows += 1
 
+        # 統計シートの更新
         dist = data.get("skill_distribution", {})
         stat.append([
             data.get("timestamp", now_str),
@@ -139,9 +183,11 @@ def append_jobs_to_excel(data: dict, excel_path: str = EXCEL_PATH, dedupe_by_url
             dist.get("high_priority",""),
         ])
 
-        _autosize_columns(ws); _autosize_columns(stat)
+        _autosize_columns(ws)
+        _autosize_columns(stat)
         wb.save(path)
         print(f"📊 Excel出力: {path} | 案件 {new_rows}件を追記（統計1行）")
+        
     except PermissionError:
         print("❌ Excelファイルが開かれています。閉じてから再実行してください。")
     except Exception as e:
