@@ -10,36 +10,63 @@ import openpyxl
 from pathlib import Path
 from typing import List
 from openpyxl.utils import get_column_letter
-from datetime import datetime
+from datetime import datetime, timedelta
 from playwright.async_api import async_playwright
 
-# ====== 環境設定 ======
-EXCEL_PATH = r"C:\Users\SUZUKI Natsumi\株式会社ReySolid\【B】IT-Solution@ReySolid - 案件管理 - ドキュメント\案件管理\案件情報.xlsx"
+# =============================
+# 環境判定
+# =============================
+IS_GITHUB_ACTIONS = os.getenv('GITHUB_ACTIONS') == 'true'
+
+# =============================
+# 設定値
+# =============================
 LANCERS_SEARCH_URL = "https://www.lancers.jp/work/search/system?budget_from=&budget_to=&work_rank%5B%5D=&work_rank%5B%5D=&work_rank%5B%5D=&keyword=&sort=work_post_date"
 MAX_JOBS_TO_FETCH = 100
-HEADLESS_MODE = True
+HEADLESS_MODE = os.getenv("HEADLESS", "true").lower() != "false"  # 環境変数で上書き可
 
-# または動的に選択
-def get_excel_path():
+# =============================
+# 保存先（環境により切替）＋上書き対応
+# =============================
+def _ensure_parent_dir(p: str):
+    try:
+        Path(p).parent.mkdir(parents=True, exist_ok=True)
+    except Exception:
+        pass
+
+def get_excel_path_local() -> str:
     paths = [
         r"C:\Users\SUZUKI Natsumi\株式会社ReySolid\【B】IT-Solution@ReySolid - 案件管理 - ドキュメント\案件管理\案件情報.xlsx",
-        r"C:\Users\SUZUKI Natsumi\OneDrive - 株式会社ReySolid\案件情報.xlsx"
+        r"C:\Users\SUZUKI Natsumi\OneDrive - 株式会社ReySolid\案件情報.xlsx",
     ]
-    
     for path in paths:
         if os.path.exists(path):
             print(f"📊 使用するExcelファイル: {path}")
-            # ファイルの更新日時を表示
-            mtime = datetime.fromtimestamp(os.path.getmtime(path))
-            print(f"   最終更新: {mtime}")
+            try:
+                mtime = datetime.fromtimestamp(os.path.getmtime(path))
+                print(f"   最終更新: {mtime}")
+            except Exception:
+                pass
             return path
-    
-    return paths[0]  # デフォルト
+    # 見つからない場合も第1候補を返し、後続で自動作成
+    _ensure_parent_dir(paths[0])
+    return paths[0]
 
-EXCEL_PATH = get_excel_path()
+# 優先度: 環境変数 EXCEL_PATH > 自動判定
+env_override = os.getenv("EXCEL_PATH")
 
+if IS_GITHUB_ACTIONS:
+    EXCEL_PATH = env_override or "案件情報.xlsx"  # Actions はリポジトリ直下
+    print("📍 GitHub Actions環境で実行中: Excelはリポジトリに保存します")
+else:
+    EXCEL_PATH = env_override or get_excel_path_local()
+    print("📍 ローカル環境で実行中: OneDrive/SharePoint パスを使用します")
 
-# 弊社スキルセット（検索ワード優先版）
+print(f"📄 EXCEL_PATH = {EXCEL_PATH}")
+
+# =============================
+# スキル設定 / 除外キーワード
+# =============================
 COMPANY_SKILLS = {
     "超高優先度": ["AI", "GPT", "ChatGPT", "Python", "API", "Django", "Next.js","React","TypeScript", "機械学習"],
     "高優先度": ["bot", "Talend", "Java", "スマホアプリ", "モバイル開発", "人工知能"],
@@ -48,7 +75,6 @@ COMPANY_SKILLS = {
     "最低優先度": ["Render", "ロリッポップ", "WordPress", "PHP"]
 }
 
-# 除外キーワード
 EXCLUDE_KEYWORDS = [
     "求人", "採用", "転職", "正社員", "アルバイト", "派遣",
     "コンペ", "コンペティション", "コンテスト",
@@ -62,10 +88,11 @@ EXCLUDE_KEYWORDS = [
     '翻訳', '通訳', 'アンケート', 'モニター', 'レビュー',
     'テレアポ', '営業', 'カスタマーサポート', 'サポート業務', '事務',
     '経理', '秘書', 'アシスタント', '内職', '簡単作業', '軽作業'
-
 ]
 
-# ====== Excel ヘルパ（クラス外） ======
+# =============================
+# Excel ヘルパ
+# =============================
 def _format_skill_matches_compact_for_excel(skill_matches: List[dict]) -> str:
     if not skill_matches:
         return ""
@@ -97,17 +124,7 @@ def _ensure_book_and_sheets(path: Path):
         wb = openpyxl.Workbook()
         ws = wb.active
         ws.title = "ランサーズ"
-        # シンプルなヘッダー構成に変更
-        ws.append([
-            "取得日時",
-            "タイトル", 
-            "カテゴリ",
-            "価格",
-            "締切",
-            "URL",
-            "優先度スコア",
-            "スキル概要"
-        ])
+        ws.append(["取得日時","タイトル","カテゴリ","価格","締切","URL","優先度スコア","スキル概要"])
         stat = wb.create_sheet("統計")
         stat.append(["timestamp","count","type","skill_match_rate","no_skill_match","multi_skill_match","high_priority"])
         wb.save(path)
@@ -115,16 +132,7 @@ def _ensure_book_and_sheets(path: Path):
         wb = openpyxl.load_workbook(path)
         if "ランサーズ" not in wb.sheetnames:
             ws = wb.create_sheet("ランサーズ")
-            ws.append([
-                "取得日時",
-                "タイトル",
-                "カテゴリ", 
-                "価格",
-                "締切",
-                "URL",
-                "優先度スコア",
-                "スキル概要"
-            ])
+            ws.append(["取得日時","タイトル","カテゴリ","価格","締切","URL","優先度スコア","スキル概要"])
         if "統計" not in wb.sheetnames:
             stat = wb.create_sheet("統計")
             stat.append(["timestamp","count","type","skill_match_rate","no_skill_match","multi_skill_match","high_priority"])
@@ -140,38 +148,32 @@ def append_jobs_to_excel(data: dict, excel_path: str = EXCEL_PATH, dedupe_by_url
         existing_urls = set()
         if dedupe_by_url:
             for row in ws.iter_rows(min_row=2, values_only=True):
-                if row and len(row) >= 6 and row[5]:  # URL列は6番目
+                if row and len(row) >= 6 and row[5]:  # URL
                     existing_urls.add(row[5])
 
         now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         new_rows = 0
-        
+
         for job in data.get("jobs", []):
             url = job.get("link") or ""
             if dedupe_by_url and url in existing_urls:
                 continue
-                
-            # ヘッダーと同じ順序で追記
             ws.append([
-                now_str,                    # 取得日時
-                job.get("title",""),        # タイトル
-                job.get("category",""),     # カテゴリー
-                job.get("price",""),        # 価格
-                job.get("deadline",""),     # 締切
-                url,                        # URL
-                job.get("priority_score",""), # 優先度スコア
-                _format_skill_matches_compact_for_excel(job.get("skill_matches", []))  # スキル概要
+                now_str,
+                job.get("title",""),
+                job.get("category",""),
+                job.get("price",""),
+                job.get("deadline",""),
+                url,
+                job.get("priority_score",""),
+                _format_skill_matches_compact_for_excel(job.get("skill_matches", []))
             ])
-            
             last = ws.max_row
-            # URLにハイパーリンク設定（6列目）
             if url:
                 ws.cell(row=last, column=6).hyperlink = url
                 ws.cell(row=last, column=6).style = "Hyperlink"
-            
             new_rows += 1
 
-        # 統計シートの更新
         dist = data.get("skill_distribution", {})
         stat.append([
             data.get("timestamp", now_str),
@@ -187,21 +189,22 @@ def append_jobs_to_excel(data: dict, excel_path: str = EXCEL_PATH, dedupe_by_url
         _autosize_columns(stat)
         wb.save(path)
         print(f"📊 Excel出力: {path} | 案件 {new_rows}件を追記（統計1行）")
-        
+
     except PermissionError:
         print("❌ Excelファイルが開かれています。閉じてから再実行してください。")
     except Exception as e:
         print(f"❌ Excel出力エラー: {e}")
 
+# =============================
+# 取得・通知クラス
+# =============================
 class CompleteJobsNotifier:
     def __init__(self):
         self.jobs_data = []
         self.seen_links = set()
 
     async def fetch_jobs(self):
-        """全案件を取得（フィルタリング最小限）"""
         print("🚀 Lancers全案件取得を開始...")
-
         async with async_playwright() as p:
             browser = await p.chromium.launch(headless=HEADLESS_MODE, slow_mo=300)
             try:
@@ -210,7 +213,6 @@ class CompleteJobsNotifier:
                     locale="ja-JP"
                 )
                 page = await context.new_page()
-
                 print(f"📡 アクセス中: {LANCERS_SEARCH_URL}")
                 response = await page.goto(LANCERS_SEARCH_URL, wait_until="domcontentloaded", timeout=60000)
                 print(f"✅ ページ読み込み完了 (ステータス: {response.status})")
@@ -222,9 +224,7 @@ class CompleteJobsNotifier:
                 print(f"📊 {len(job_elements)} 個の案件候補を発見")
 
                 all_jobs = []
-                for element in job_elements:
-                    if len(all_jobs) >= MAX_JOBS_TO_FETCH:
-                        break
+                for element in job_elements[:MAX_JOBS_TO_FETCH]:
                     job_info = await self.extract_job_info(element, page)
                     if job_info and self.should_include_job_minimal(job_info):
                         all_jobs.append(job_info)
@@ -304,7 +304,7 @@ class CompleteJobsNotifier:
                     matches.append({"skill": skill, "priority": priority})
         additional_keywords = {
             "自動化": "中優先度",
-            "スクレイピング": "中優先度", 
+            "スクレイピング": "中優先度",
             "アプリ": "中優先度",
             "サイト": "低優先度",
             "管理": "低優先度",
@@ -359,7 +359,7 @@ class CompleteJobsNotifier:
     async def extract_recruitment_details(self, element):
         recruitment_info = {
             "price": "価格情報なし",
-            "deadline": "期限情報なし", 
+            "deadline": "期限情報なし",
             "applicant_count": "0",
             "recruitment_count": "1",
             "client_name": "依頼者情報なし",
@@ -551,9 +551,7 @@ class CompleteJobsNotifier:
         if not webhook_url:
             print("❌ Teams Webhook URLが設定されていません")
             return False
-
         payload = self.create_teams_payload(jobs)
-
         try:
             async with aiohttp.ClientSession() as session:
                 print("📤 Teamsに全案件リストを送信中...")
@@ -608,21 +606,164 @@ class CompleteJobsNotifier:
             "skill_match_rate": round((total_jobs - no_skill_jobs) / total_jobs * 100, 1) if total_jobs > 0 else 0
         }
 
+# =============================
+# Excel クリーニング
+# =============================
+def clean_excel_data(excel_path: str = EXCEL_PATH):
+    """Excelファイル内の重複データと期限切れデータをクリーニング"""
+    try:
+        path = Path(excel_path)
+        if not path.exists():
+            print("📄 Excelファイルが存在しません（初回など）")
+            return
 
-# ====== エントリポイント ======
+        wb = openpyxl.load_workbook(path)
+        if "ランサーズ" not in wb.sheetnames:
+            print("📄 ランサーズシートが存在しません")
+            return
+
+        ws = wb["ランサーズ"]
+
+        # データ読み込み
+        all_rows = []
+        for row_idx in range(2, ws.max_row + 1):
+            row_data = []
+            for col_idx in range(1, 9):  # 8列
+                cell_value = ws.cell(row=row_idx, column=col_idx).value
+                row_data.append(cell_value)
+            if len(row_data) > 5 and row_data[5]:
+                all_rows.append({
+                    'row_index': row_idx,
+                    'date': row_data[0],
+                    'title': row_data[1],
+                    'category': row_data[2],
+                    'price': row_data[3],
+                    'deadline': row_data[4],
+                    'url': row_data[5],
+                    'score': row_data[6] if len(row_data) > 6 else None,
+                    'skills': row_data[7] if len(row_data) > 7 else None
+                })
+
+        print(f"📊 処理前のデータ数: {len(all_rows)}件")
+
+        # 1) URL重複（新しいものを残す）
+        url_latest = {}
+        for row in all_rows:
+            url = row['url']
+            if url not in url_latest:
+                url_latest[url] = row
+            else:
+                try:
+                    current_date = datetime.strptime(str(row['date']), "%Y-%m-%d %H:%M:%S")
+                    existing_date = datetime.strptime(str(url_latest[url]['date']), "%Y-%m-%d %H:%M:%S")
+                    if current_date > existing_date:
+                        url_latest[url] = row
+                except:
+                    pass
+
+        # 2) 期限切れ/古いデータ
+        now = datetime.now()
+        one_month_ago = now - timedelta(days=30)
+
+        filtered_rows = []
+        removed_count = {'duplicate': len(all_rows) - len(url_latest), 'expired': 0, 'old': 0}
+
+        for url, row in url_latest.items():
+            keep_row = True
+            try:
+                row_date = datetime.strptime(str(row['date']), "%Y-%m-%d %H:%M:%S")
+                if row_date < one_month_ago:
+                    keep_row = False
+                    removed_count['old'] += 1
+            except:
+                pass
+
+            if keep_row and row['deadline']:
+                deadline_text = str(row['deadline'])
+                if '締切' in deadline_text or '終了' in deadline_text:
+                    keep_row = False
+                    removed_count['expired'] += 1
+                else:
+                    try:
+                        deadline_date = None
+                        date_match = re.search(r'(\d{4})[/-](\d{1,2})[/-](\d{1,2})', deadline_text)
+                        if not date_match:
+                            date_match = re.search(r'(\d{1,2})[/-](\d{1,2})', deadline_text)
+                            if date_match:
+                                month, day = int(date_match.group(1)), int(date_match.group(2))
+                                year = now.year
+                                deadline_date = datetime(year, month, day)
+                            else:
+                                date_match = re.search(r'(\d{1,2})月(\d{1,2})日', deadline_text)
+                                if date_match:
+                                    month, day = int(date_match.group(1)), int(date_match.group(2))
+                                    year = now.year
+                                    deadline_date = datetime(year, month, day)
+                        else:
+                            year, month, day = int(date_match.group(1)), int(date_match.group(2)), int(date_match.group(3))
+                            deadline_date = datetime(year, month, day)
+
+                        if deadline_date and deadline_date < now:
+                            keep_row = False
+                            removed_count['expired'] += 1
+                    except:
+                        pass
+
+            if keep_row:
+                filtered_rows.append(row)
+
+        print(f"🗑️ 削除データ: 重複 {removed_count['duplicate']} / 1ヶ月以上前 {removed_count['old']} / 期限切れ {removed_count['expired']}")
+        print(f"📊 処理後のデータ数: {len(filtered_rows)}件")
+
+        # 再作成
+        wb.remove(ws)
+        ws = wb.create_sheet("ランサーズ", 0)
+        ws.append(["取得日時","タイトル","カテゴリ","価格","締切","URL","優先度スコア","スキル概要"])
+
+        for row in sorted(filtered_rows, key=lambda x: str(x['date']), reverse=True):
+            ws.append([row['date'], row['title'], row['category'], row['price'], row['deadline'], row['url'], row['score'], row['skills']])
+            last = ws.max_row
+            if row['url']:
+                try:
+                    ws.cell(row=last, column=6).hyperlink = row['url']
+                    ws.cell(row=last, column=6).style = "Hyperlink"
+                except:
+                    pass
+
+        _autosize_columns(ws)
+        wb.save(path)
+        print(f"✅ クリーニング完了: {path}")
+
+        return {'before': len(all_rows), 'after': len(filtered_rows), 'removed': removed_count}
+
+    except Exception as e:
+        print(f"❌ クリーニングエラー: {e}")
+        import traceback
+        traceback.print_exc()
+        return None
+
+# =============================
+# エントリポイント
+# =============================
 async def main():
     print("=" * 70)
     print("🤖 Lancers全案件取得システム（Teams28KB最大活用版）")
     print("=" * 70)
 
+    # 起動時クリーニング（Excelが無ければスキップ）
+    print("\n📧 既存データのクリーニング中...")
+    clean_result = clean_excel_data(EXCEL_PATH)
+    if clean_result:
+        print(f"   処理前: {clean_result['before']}件 → 処理後: {clean_result['after']}件")
+
     notifier = CompleteJobsNotifier()
     jobs = await notifier.fetch_jobs()
 
     if jobs:
-        # JSON保存
+        # JSON保存（リポジトリ or ローカル）
         notifier.save_data(jobs)
 
-        # Excelにも追記
+        # Excel追記
         excel_data = {
             "timestamp": datetime.now().isoformat(),
             "count": len(jobs),
@@ -632,6 +773,10 @@ async def main():
             "jobs": jobs
         }
         append_jobs_to_excel(excel_data, EXCEL_PATH, dedupe_by_url=True)
+
+        # 追記後クリーニング
+        print("\n📧 追記後のクリーニング...")
+        clean_excel_data(EXCEL_PATH)
 
         # Teams送信
         teams_success = await notifier.send_to_teams(jobs)
