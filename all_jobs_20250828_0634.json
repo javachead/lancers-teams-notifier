@@ -1,0 +1,190 @@
+{
+  "timestamp": "2025-08-28T06:34:14.306130",
+  "count": 8,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 3,
+    "AI": 2,
+    "Ai": 2,
+    "アプリ": 1,
+    "WordPress": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 8,
+    "no_skill_match": 3,
+    "multi_skill_match": 2,
+    "high_priority": 8,
+    "skill_match_rate": 62.5
+  },
+  "jobs": [
+    {
+      "title": "競馬AIの開発ができる方、もしくはすでに開発済みの方",
+      "link": "https://www.lancers.jp/work/detail/5381290",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 375,
+      "scraped_at": "2025-08-28T06:34:14.059363"
+    },
+    {
+      "title": "Google AI studio が生成したウェブアプリの調整",
+      "link": "https://www.lancers.jp/work/detail/5371027",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 330,
+      "scraped_at": "2025-08-28T06:34:14.143717"
+    },
+    {
+      "title": "【急募】TEBANASHIの開発補助をお手伝いしてくれる方募集!",
+      "link": "https://www.lancers.jp/work/detail/5381284",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-08-28T06:34:14.084773"
+    },
+    {
+      "title": "【急募】MDMサービスの障害対応・追加開発業務",
+      "link": "https://www.lancers.jp/work/detail/5381264",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-08-28T06:34:14.104725"
+    },
+    {
+      "title": "【WordPress改善】社内システムの運用支援をお願いします",
+      "link": "https://www.lancers.jp/work/detail/5381250",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 48,
+      "scraped_at": "2025-08-28T06:34:14.162162"
+    },
+    {
+      "title": "【急募】GoogleMAP機能追加・編集の依頼",
+      "link": "https://www.lancers.jp/work/detail/5381118",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-08-28T06:34:14.199555"
+    },
+    {
+      "title": "【急募】会計ソフト導入とVPN構築の専門家を探しています",
+      "link": "https://www.lancers.jp/work/detail/5381245",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-08-28T06:34:14.180925"
+    },
+    {
+      "title": "【知識ゼロから参加できる♪ 新しい体験プロジェクト】",
+      "link": "https://www.lancers.jp/work/detail/5381204",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-08-28T06:34:14.123488"
+    }
+  ]
+}
