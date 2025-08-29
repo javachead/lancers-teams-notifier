@@ -1,0 +1,122 @@
+{
+  "timestamp": "2025-08-29T06:24:56.320414",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 4,
+    "ツール": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 1,
+    "multi_skill_match": 1,
+    "high_priority": 5,
+    "skill_match_rate": 80.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】心理的安全性を可視化するWebツール開発",
+      "link": "https://www.lancers.jp/work/detail/5381977",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 128,
+      "scraped_at": "2025-08-29T06:24:56.186072"
+    },
+    {
+      "title": "【急募】SFAのスクラッチ開発対応してくれる企業様募集!",
+      "link": "https://www.lancers.jp/work/detail/5382236",
+      "price": "5,000,000 円 ~ / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-08-29T06:24:56.146644"
+    },
+    {
+      "title": "【ペットのアバター化】LumiGOプロトタイプ開発の依頼",
+      "link": "https://www.lancers.jp/work/detail/5382213",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-08-29T06:24:56.165891"
+    },
+    {
+      "title": "【急募】フロントエンド Webサービス開発/改修",
+      "link": "https://www.lancers.jp/work/detail/5370186",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-08-29T06:24:56.205592"
+    },
+    {
+      "title": "【急募】既存スプレッドシートを新アカウントに移動依頼",
+      "link": "https://www.lancers.jp/work/detail/5381748",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-08-29T06:24:56.224903"
+    }
+  ]
+}
