@@ -1,0 +1,282 @@
+{
+  "timestamp": "2025-08-29T18:24:22.556693",
+  "count": 12,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 5,
+    "Next.js": 1,
+    "システム開発": 1,
+    "自動化": 1,
+    "スクレイピング": 1,
+    "管理": 1,
+    "ツール": 1,
+    "効率化": 1,
+    "サイト": 1,
+    "WordPress": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 12,
+    "no_skill_match": 4,
+    "multi_skill_match": 4,
+    "high_priority": 12,
+    "skill_match_rate": 66.7
+  },
+  "jobs": [
+    {
+      "title": "【急募】フロントエンド Next.js システム開発",
+      "link": "https://www.lancers.jp/work/detail/5382523",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Next.js",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 243,
+      "scraped_at": "2025-08-29T18:24:22.228752"
+    },
+    {
+      "title": "【急募】大規模データ収集自動化(スクレイピング・DB連携・エラー管理)案件",
+      "link": "https://www.lancers.jp/work/detail/5382463",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 158,
+      "scraped_at": "2025-08-29T18:24:22.268727"
+    },
+    {
+      "title": "【急募】心理的安全性を可視化するWebツール開発",
+      "link": "https://www.lancers.jp/work/detail/5381977",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 128,
+      "scraped_at": "2025-08-29T18:24:22.391449"
+    },
+    {
+      "title": "【急募】SFAのスクラッチ開発対応してくれる企業様募集!",
+      "link": "https://www.lancers.jp/work/detail/5382236",
+      "price": "5,000,000 円 ~ / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-08-29T18:24:22.342151"
+    },
+    {
+      "title": "【急募】既存Googleスプレッドシートで効率化を図りたいので修正・改善をお手伝いしてくれる方募集",
+      "link": "https://www.lancers.jp/work/detail/5382629",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "効率化",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 70,
+      "scraped_at": "2025-08-29T18:24:22.202788"
+    },
+    {
+      "title": "【ペットのアバター化】LumiGOプロトタイプ開発の依頼",
+      "link": "https://www.lancers.jp/work/detail/5382213",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-08-29T18:24:22.361594"
+    },
+    {
+      "title": "【急募】フロントエンド Webサービス開発/改修",
+      "link": "https://www.lancers.jp/work/detail/5370186",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-08-29T18:24:22.409859"
+    },
+    {
+      "title": "【急募】大学ウェブサイト修正依頼(WordPress)",
+      "link": "https://www.lancers.jp/work/detail/5382289",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 50,
+      "scraped_at": "2025-08-29T18:24:22.323775"
+    },
+    {
+      "title": "【SRE / インフラエンジニア募集(基本リモート・金融系案件)】",
+      "link": "https://www.lancers.jp/work/detail/5371075",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-08-29T18:24:22.305677"
+    },
+    {
+      "title": "【急募】既存スプレッドシートを新アカウントに移動依頼",
+      "link": "https://www.lancers.jp/work/detail/5381748",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-08-29T18:24:22.427642"
+    },
+    {
+      "title": "【急募】ZendeskとLINE連携の自動メッセージ設定",
+      "link": "https://www.lancers.jp/work/detail/5382550",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-08-29T18:24:22.250220"
+    },
+    {
+      "title": "ESP32を利用した精密機械の製品化サポート",
+      "link": "https://www.lancers.jp/work/detail/5382344",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-08-29T18:24:22.287049"
+    }
+  ]
+}
