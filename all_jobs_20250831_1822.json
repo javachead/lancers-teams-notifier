@@ -1,0 +1,207 @@
+{
+  "timestamp": "2025-08-31T18:22:48.986875",
+  "count": 9,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 5,
+    "効率化": 1,
+    "自動化": 1,
+    "システム開発": 1,
+    "サイト": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 9,
+    "no_skill_match": 3,
+    "multi_skill_match": 3,
+    "high_priority": 9,
+    "skill_match_rate": 66.7
+  },
+  "jobs": [
+    {
+      "title": "【RPA自動化】通関データ入力業務の効率化依頼",
+      "link": "https://www.lancers.jp/work/detail/5383211",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "効率化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 153,
+      "scraped_at": "2025-08-31T18:22:48.801997"
+    },
+    {
+      "title": "【急募】個人思想を反映したコンテンツ生成システム開発",
+      "link": "https://www.lancers.jp/work/detail/5383095",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 118,
+      "scraped_at": "2025-08-31T18:22:48.872564"
+    },
+    {
+      "title": "サブスク型学習サイトの開発",
+      "link": "https://www.lancers.jp/work/detail/5365024",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-08-31T18:22:48.821192"
+    },
+    {
+      "title": "急募 【急募】音響系機器のESP32・BP83のファームウェア開発",
+      "link": "https://www.lancers.jp/work/detail/5383501",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-08-31T18:22:48.699778"
+    },
+    {
+      "title": "【急募】小型BLE音声モジュールの試作開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5383341",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-08-31T18:22:48.764499"
+    },
+    {
+      "title": "IB報酬を得るための高性能EA開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5383199",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-08-31T18:22:48.783201"
+    },
+    {
+      "title": "LINE公式アカウントの自動応答・ステップ配信設定(文章提供あり)",
+      "link": "https://www.lancers.jp/work/detail/5383334",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-08-31T18:22:48.743862"
+    },
+    {
+      "title": "どこにも負けない最速購入",
+      "link": "https://www.lancers.jp/work/detail/5383527",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-08-31T18:22:48.719489"
+    },
+    {
+      "title": "マクロの仕様変更をお願いします。",
+      "link": "https://www.lancers.jp/work/detail/5383131",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-08-31T18:22:48.852768"
+    }
+  ]
+}
