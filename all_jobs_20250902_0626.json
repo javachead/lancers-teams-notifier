@@ -1,0 +1,220 @@
+{
+  "timestamp": "2025-09-02T06:26:42.477020",
+  "count": 8,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 5,
+    "システム開発": 2,
+    "AI": 1,
+    "コンサル": 1,
+    "Ai": 1,
+    "Next.js": 1,
+    "PHP": 1,
+    "自動化": 1,
+    "アプリ": 1,
+    "管理": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 8,
+    "no_skill_match": 2,
+    "multi_skill_match": 5,
+    "high_priority": 8,
+    "skill_match_rate": 75.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】コンサルティング会社向けAIボットデモ開発者募集(英語必須)",
+      "link": "https://www.lancers.jp/work/detail/5384661",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "コンサル",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 388,
+      "scraped_at": "2025-09-02T06:26:42.229854"
+    },
+    {
+      "title": "【急募】フロントエンド Next.js システム開発",
+      "link": "https://www.lancers.jp/work/detail/5382523",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Next.js",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 243,
+      "scraped_at": "2025-09-02T06:26:42.357898"
+    },
+    {
+      "title": "【急募】PHP(v8) + Laravel(v12) での社内業務システム開発",
+      "link": "https://www.lancers.jp/work/detail/5384668",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "PHP",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 155,
+      "scraped_at": "2025-09-02T06:26:42.250375"
+    },
+    {
+      "title": "時給2000円|make/n8n/AWSによる自動化開発者を募集(RPA・MCP経験者歓迎)",
+      "link": "https://www.lancers.jp/work/detail/5384429",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 143,
+      "scraped_at": "2025-09-02T06:26:42.335792"
+    },
+    {
+      "title": "【FlutterFlow】【Firebase】ファン活動支援アプリ開発",
+      "link": "https://www.lancers.jp/work/detail/5384557",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 100,
+      "scraped_at": "2025-09-02T06:26:42.270742"
+    },
+    {
+      "title": "初回 販売管理システムの改修",
+      "link": "https://www.lancers.jp/work/detail/5384843",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 48,
+      "scraped_at": "2025-09-02T06:26:42.179425"
+    },
+    {
+      "title": "【急募】webFAX添付PDFをGASで自動保存・送信元名付加の依頼",
+      "link": "https://www.lancers.jp/work/detail/5384811",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-09-02T06:26:42.201681"
+    },
+    {
+      "title": "本日(9/2)に対応いただける方。GMOクラウドVPS(Plesk付)の復旧作業",
+      "link": "https://www.lancers.jp/work/detail/5384641",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-09-02T06:26:42.298148"
+    }
+  ]
+}
