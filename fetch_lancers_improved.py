@@ -138,62 +138,42 @@ def _ensure_book_and_sheets(path: Path):
             stat.append(["timestamp","count","type","skill_match_rate","no_skill_match","multi_skill_match","high_priority"])
     return wb
 
-def append_jobs_to_excel(data: dict, excel_path: str = EXCEL_PATH, dedupe_by_url: bool = True):
+def replace_lancers_sheet(data: dict, excel_path: str = EXCEL_PATH):
     try:
         path = Path(excel_path)
         wb = _ensure_book_and_sheets(path)
-        ws = wb["ランサーズ"]
-        stat = wb["統計"]
 
-        existing_urls = set()
-        if dedupe_by_url:
-            for row in ws.iter_rows(min_row=2, values_only=True):
-                if row and len(row) >= 6 and row[5]:  # URL
-                    existing_urls.add(row[5])
+        if "ランサーズ" in wb.sheetnames:
+            del wb["ランサーズ"]
+
+        ws = wb.create_sheet("ランサーズ", 0)
+        ws.append(["取得日時","タイトル","カテゴリ","価格","締切","URL","優先度スコア","スキル概要"])
 
         now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        new_rows = 0
-
         for job in data.get("jobs", []):
-            url = job.get("link") or ""
-            if dedupe_by_url and url in existing_urls:
-                continue
+            url = job.get("link", "")
             ws.append([
                 now_str,
-                job.get("title",""),
-                job.get("category",""),
-                job.get("price",""),
-                job.get("deadline",""),
+                job.get("title", ""),
+                job.get("category", ""),
+                job.get("price", ""),
+                job.get("deadline", ""),
                 url,
-                job.get("priority_score",""),
+                job.get("priority_score", ""),
                 _format_skill_matches_compact_for_excel(job.get("skill_matches", []))
             ])
             last = ws.max_row
             if url:
                 ws.cell(row=last, column=6).hyperlink = url
                 ws.cell(row=last, column=6).style = "Hyperlink"
-            new_rows += 1
-
-        dist = data.get("skill_distribution", {})
-        stat.append([
-            data.get("timestamp", now_str),
-            data.get("count", 0),
-            data.get("type", ""),
-            dist.get("skill_match_rate",""),
-            dist.get("no_skill_match",""),
-            dist.get("multi_skill_match",""),
-            dist.get("high_priority",""),
-        ])
 
         _autosize_columns(ws)
-        _autosize_columns(stat)
         wb.save(path)
-        print(f"📊 Excel出力: {path} | 案件 {new_rows}件を追記（統計1行）")
+        print(f"✅ 『ランサーズ』シートを上書き保存しました: {excel_path}")
 
-    except PermissionError:
-        print("❌ Excelファイルが開かれています。閉じてから再実行してください。")
     except Exception as e:
-        print(f"❌ Excel出力エラー: {e}")
+        print(f"❌ ランサーズ上書きエラー: {e}")
+
 
 # =============================
 # 取得・通知クラス
@@ -605,6 +585,7 @@ class CompleteJobsNotifier:
             "high_priority": high_priority_jobs,
             "skill_match_rate": round((total_jobs - no_skill_jobs) / total_jobs * 100, 1) if total_jobs > 0 else 0
         }
+        
 
 # =============================
 # Excel クリーニング
@@ -750,11 +731,12 @@ async def main():
     print("🤖 Lancers全案件取得システム（Teams28KB最大活用版）")
     print("=" * 70)
 
-    # 起動時クリーニング（Excelが無ければスキップ）
     print("\n📧 既存データのクリーニング中...")
     clean_result = clean_excel_data(EXCEL_PATH)
     if clean_result:
         print(f"   処理前: {clean_result['before']}件 → 処理後: {clean_result['after']}件")
+
+    # ...続く処理もすべてインデントしておくこと...
 
     notifier = CompleteJobsNotifier()
     jobs = await notifier.fetch_jobs()
@@ -763,7 +745,7 @@ async def main():
         # JSON保存（リポジトリ or ローカル）
         notifier.save_data(jobs)
 
-        # Excel追記
+        # 🔧 ここで先に定義する！
         excel_data = {
             "timestamp": datetime.now().isoformat(),
             "count": len(jobs),
@@ -772,7 +754,9 @@ async def main():
             "skill_distribution": notifier.create_skill_distribution(jobs),
             "jobs": jobs
         }
-        append_jobs_to_excel(excel_data, EXCEL_PATH, dedupe_by_url=True)
+
+        # Excelの「ランサーズ」シートを上書き
+        replace_lancers_sheet(excel_data, EXCEL_PATH)
 
         # 追記後クリーニング
         print("\n📧 追記後のクリーニング...")
@@ -801,6 +785,7 @@ async def main():
         print(f"   スキルマッチなし: {skill_distribution['no_skill_match']}件")
     else:
         print("❌ 案件が見つかりませんでした")
+
 
 if __name__ == "__main__":
     asyncio.run(main())
