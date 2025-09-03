@@ -14,7 +14,6 @@ git reset --hard origin/main 2>&1 | Out-Null
 git pull origin main 2>&1 | Out-Null
 
 if (Test-Path "案件情報.xlsx") {
-    Copy-Item "案件情報.xlsx" $sharePointPath -Force
     $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
     Add-Content $logFile "[$timestamp]  同期成功"
     Write-Host " 同期完了: $timestamp" -ForegroundColor Green
