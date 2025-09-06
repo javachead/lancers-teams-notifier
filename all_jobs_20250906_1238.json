@@ -1,0 +1,127 @@
+{
+  "timestamp": "2025-09-06T12:38:42.921744",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 2,
+    "アプリ": 2,
+    "Next.js": 1,
+    "システム開発": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 2,
+    "multi_skill_match": 2,
+    "high_priority": 5,
+    "skill_match_rate": 60.0
+  },
+  "jobs": [
+    {
+      "title": "初回 【急募】フロントエンド Next.js システム開発",
+      "link": "https://www.lancers.jp/work/detail/5388329",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Next.js",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 243,
+      "scraped_at": "2025-09-06T12:38:42.758405"
+    },
+    {
+      "title": "【LINEミニアプリ開発】紹介クーポン機能付きのミニアプリ開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5388066",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 100,
+      "scraped_at": "2025-09-06T12:38:42.817414"
+    },
+    {
+      "title": "初回 Bubbleを使ったアプリ構築の講師募集【初心者向け指導】",
+      "link": "https://www.lancers.jp/work/detail/5388189",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 38,
+      "scraped_at": "2025-09-06T12:38:42.798428"
+    },
+    {
+      "title": "限定公開 PR 限定公開の仕事",
+      "link": "https://www.lancers.jp/work/detail/5385681",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-09-06T12:38:42.837065"
+    },
+    {
+      "title": "【募集】運送料金計算エクセルソフト作成依頼",
+      "link": "https://www.lancers.jp/work/detail/5388228",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-09-06T12:38:42.778372"
+    }
+  ]
+}
