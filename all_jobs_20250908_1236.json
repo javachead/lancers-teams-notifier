@@ -1,0 +1,302 @@
+{
+  "timestamp": "2025-09-08T12:36:36.232683",
+  "count": 12,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 6,
+    "Python": 3,
+    "ツール": 2,
+    "管理": 2,
+    "PHP": 1,
+    "スクレイピング": 1,
+    "bot": 1,
+    "システム開発": 1,
+    "サイト": 1,
+    "WordPress": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 12,
+    "no_skill_match": 4,
+    "multi_skill_match": 8,
+    "high_priority": 12,
+    "skill_match_rate": 66.7
+  },
+  "jobs": [
+    {
+      "title": "Inkscape「Hershey Text」用svgフォント変換ツール開発(python)",
+      "link": "https://www.lancers.jp/work/detail/5389316",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 315,
+      "scraped_at": "2025-09-08T12:36:35.843988"
+    },
+    {
+      "title": "自社開発のロジシステムをサポート及び開発できる方募集【PHP, Python, VBA etc】",
+      "link": "https://www.lancers.jp/work/detail/5389460",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "PHP",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 305,
+      "scraped_at": "2025-09-08T12:36:35.798807"
+    },
+    {
+      "title": "Excel・Accessベースの改修や追加、Pythonスクレイピングやデータ整形等の開発員募集",
+      "link": "https://www.lancers.jp/work/detail/5273634",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 298,
+      "scraped_at": "2025-09-08T12:36:35.990804"
+    },
+    {
+      "title": "【募集】RPAツール「RoboTANGO」設定代行の専門家を探しています",
+      "link": "https://www.lancers.jp/work/detail/5314730",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "bot",
+          "priority": "高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 178,
+      "scraped_at": "2025-09-08T12:36:36.008792"
+    },
+    {
+      "title": "【急募】Windowsサイネージシステム開発のプロフェッショナル募集",
+      "link": "https://www.lancers.jp/work/detail/5388877",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 125,
+      "scraped_at": "2025-09-08T12:36:36.026520"
+    },
+    {
+      "title": "【急募】管理システムの詳細設計・開発を依頼します!",
+      "link": "https://www.lancers.jp/work/detail/5389414",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 115,
+      "scraped_at": "2025-09-08T12:36:35.822528"
+    },
+    {
+      "title": "【急募】ECサイトのインタラクティブな商品比較シュミレーションの開発",
+      "link": "https://www.lancers.jp/work/detail/5389306",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-09-08T12:36:35.863170"
+    },
+    {
+      "title": "【急募】Google Cloud WordPress管理画面ログイン設定",
+      "link": "https://www.lancers.jp/work/detail/5388922",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 50,
+      "scraped_at": "2025-09-08T12:36:36.063290"
+    },
+    {
+      "title": "OR(operations research)にて最適化の仕組みの構築(社内常駐)",
+      "link": "https://www.lancers.jp/work/detail/5372984",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-09-08T12:36:35.882258"
+    },
+    {
+      "title": "限定公開 PR 限定公開の仕事",
+      "link": "https://www.lancers.jp/work/detail/5385681",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-09-08T12:36:36.081179"
+    },
+    {
+      "title": "Google Ad Managerの設定支援とGoogleアドセンス・SSPの収益最大化支援",
+      "link": "https://www.lancers.jp/work/detail/5389241",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-09-08T12:36:35.901054"
+    },
+    {
+      "title": "【至急】【継続案件】エラーで起動しなくなったエクセルマクロの修正をお願い致します。",
+      "link": "https://www.lancers.jp/work/detail/5389081",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-09-08T12:36:35.919341"
+    }
+  ]
+}
