@@ -1,0 +1,112 @@
+{
+  "timestamp": "2025-09-14T18:22:08.068601",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 2,
+    "ツール": 1,
+    "管理": 1,
+    "アプリ": 1,
+    "サイト": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 1,
+    "multi_skill_match": 2,
+    "high_priority": 4,
+    "skill_match_rate": 75.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】メモリデータ管理ツール開発のプロフェッショナル募集",
+      "link": "https://www.lancers.jp/work/detail/5393508",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 158,
+      "scraped_at": "2025-09-14T18:22:07.890158"
+    },
+    {
+      "title": "【業務委託】アプリ開発の継続的パートナ募集",
+      "link": "https://www.lancers.jp/work/detail/5393175",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-09-14T18:22:07.982606"
+    },
+    {
+      "title": "【医療関連】会員制サイト構築のパートナーを探しています",
+      "link": "https://www.lancers.jp/work/detail/5393406",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2025-09-14T18:22:07.964064"
+    },
+    {
+      "title": "【急募】Discordボット設定とサブスク化の専門家を探しています!",
+      "link": "https://www.lancers.jp/work/detail/5393471",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-09-14T18:22:07.944550"
+    }
+  ]
+}
