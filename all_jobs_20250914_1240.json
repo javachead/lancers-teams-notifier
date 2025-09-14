@@ -1,0 +1,65 @@
+{
+  "timestamp": "2025-09-14T12:40:05.344361",
+  "count": 2,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 1,
+    "アプリ": 1,
+    "サイト": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 2,
+    "no_skill_match": 0,
+    "multi_skill_match": 1,
+    "high_priority": 2,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "【業務委託】アプリ開発の継続的パートナ募集",
+      "link": "https://www.lancers.jp/work/detail/5393175",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-09-14T12:40:05.276179"
+    },
+    {
+      "title": "【医療関連】会員制サイト構築のパートナーを探しています",
+      "link": "https://www.lancers.jp/work/detail/5393406",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2025-09-14T12:40:05.255769"
+    }
+  ]
+}
