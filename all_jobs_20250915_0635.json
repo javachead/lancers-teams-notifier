@@ -1,0 +1,159 @@
+{
+  "timestamp": "2025-09-15T06:35:56.738924",
+  "count": 6,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 3,
+    "ツール": 2,
+    "管理": 1,
+    "システム開発": 1,
+    "bot": 1,
+    "コンサル": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 6,
+    "no_skill_match": 1,
+    "multi_skill_match": 3,
+    "high_priority": 6,
+    "skill_match_rate": 83.3
+  },
+  "jobs": [
+    {
+      "title": "【急募】メモリデータ管理ツール開発のプロフェッショナル募集",
+      "link": "https://www.lancers.jp/work/detail/5393508",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 158,
+      "scraped_at": "2025-09-15T06:35:56.562651"
+    },
+    {
+      "title": "【急募】屋上貸切露天風呂の空き状況確認システム開発",
+      "link": "https://www.lancers.jp/work/detail/5389645",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 125,
+      "scraped_at": "2025-09-15T06:35:56.621658"
+    },
+    {
+      "title": "FBA商品(在庫過多商品)をヤフオクで併売するツール開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5393539",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 123,
+      "scraped_at": "2025-09-15T06:35:56.602672"
+    },
+    {
+      "title": "【急募】Gasを使用した公式LINEチャットbotの作成依頼",
+      "link": "https://www.lancers.jp/work/detail/5393641",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "bot",
+          "priority": "高優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 118,
+      "scraped_at": "2025-09-15T06:35:56.542539"
+    },
+    {
+      "title": "仮想通貨トレードの運用とコンサル【1名】のみ募集",
+      "link": "https://www.lancers.jp/work/detail/5393695",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "コンサル",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 55,
+      "scraped_at": "2025-09-15T06:35:56.523016"
+    },
+    {
+      "title": "【急募】トライアスロン大会運営支援システムの動作チェック、デバグ、品質確認業務委託費",
+      "link": "https://www.lancers.jp/work/detail/5393606",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2025-09-15T06:35:56.581750"
+    }
+  ]
+}
