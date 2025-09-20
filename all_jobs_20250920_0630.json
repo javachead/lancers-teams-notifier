@@ -1,0 +1,161 @@
+{
+  "timestamp": "2025-09-20T06:30:30.983468",
+  "count": 6,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 4,
+    "システム開発": 3,
+    "スマホアプリ": 1,
+    "自動化": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 6,
+    "no_skill_match": 2,
+    "multi_skill_match": 4,
+    "high_priority": 6,
+    "skill_match_rate": 66.7
+  },
+  "jobs": [
+    {
+      "title": "【急募】スマホアプリ自動化デモ開発(LLM連携)",
+      "link": "https://www.lancers.jp/work/detail/5397035",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "スマホアプリ",
+          "priority": "高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 228,
+      "scraped_at": "2025-09-20T06:30:30.865433"
+    },
+    {
+      "title": "システム開発において活躍できる案件紹介",
+      "link": "https://www.lancers.jp/work/detail/5397117",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 125,
+      "scraped_at": "2025-09-20T06:30:30.808211"
+    },
+    {
+      "title": "システム開発の案件紹介",
+      "link": "https://www.lancers.jp/work/detail/5397121",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 125,
+      "scraped_at": "2025-09-20T06:30:30.827379"
+    },
+    {
+      "title": "システム開発の複数案件紹介",
+      "link": "https://www.lancers.jp/work/detail/5397127",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 125,
+      "scraped_at": "2025-09-20T06:30:30.846382"
+    },
+    {
+      "title": "【フォートナイト】クリエイティブ作品を世界に公開したい!",
+      "link": "https://www.lancers.jp/work/detail/5397192",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-09-20T06:30:30.788651"
+    },
+    {
+      "title": "初回 Web広告のタグ設置・動作確認",
+      "link": "https://www.lancers.jp/work/detail/5397007",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-09-20T06:30:30.886546"
+    }
+  ]
+}
