@@ -1,0 +1,142 @@
+{
+  "timestamp": "2025-09-21T06:32:55.376415",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 3,
+    "AI": 1,
+    "GPT": 1,
+    "アプリ": 1,
+    "Ai": 1,
+    "ツール": 1,
+    "WordPress": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 2,
+    "multi_skill_match": 3,
+    "high_priority": 5,
+    "skill_match_rate": 60.0
+  },
+  "jobs": [
+    {
+      "title": "GPTsを使ってAi個人会話webアプリの開発",
+      "link": "https://www.lancers.jp/work/detail/5397594",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "GPT",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 5,
+      "priority_score": 478,
+      "scraped_at": "2025-09-21T06:32:55.212266"
+    },
+    {
+      "title": "【急募】検査報告書自動発行ツール開発のエキスパート募集",
+      "link": "https://www.lancers.jp/work/detail/5397543",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 123,
+      "scraped_at": "2025-09-21T06:32:55.252963"
+    },
+    {
+      "title": "【急募】WordPress開発者を探しています!魅力的な案件です",
+      "link": "https://www.lancers.jp/work/detail/5397452",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 88,
+      "scraped_at": "2025-09-21T06:32:55.273184"
+    },
+    {
+      "title": "初回 電子秤からのデータ抽出のシステム化",
+      "link": "https://www.lancers.jp/work/detail/5397615",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2025-09-21T06:32:55.233109"
+    },
+    {
+      "title": "【急募】JotformとGoogleスプレッドシート連携のエキスパート募集!",
+      "link": "https://www.lancers.jp/work/detail/5395809",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-09-21T06:32:55.191806"
+    }
+  ]
+}
