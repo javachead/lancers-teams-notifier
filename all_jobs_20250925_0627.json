@@ -1,0 +1,171 @@
+{
+  "timestamp": "2025-09-25T06:27:39.291349",
+  "count": 8,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "Python": 1,
+    "Java": 1,
+    "Node.js": 1,
+    "PHP": 1,
+    "開発": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 8,
+    "no_skill_match": 6,
+    "multi_skill_match": 1,
+    "high_priority": 8,
+    "skill_match_rate": 25.0
+  },
+  "jobs": [
+    {
+      "title": "【SES案件多数】バックエンドエンジニア募集(Java/PHP/Python/Node.js)",
+      "link": "https://www.lancers.jp/work/detail/5399874",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Java",
+          "priority": "高優先度"
+        },
+        {
+          "skill": "Node.js",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "PHP",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 320,
+      "scraped_at": "2025-09-25T06:27:39.118681"
+    },
+    {
+      "title": "【フリーランス募集】CTビューアーソフト気道抽出機能開発",
+      "link": "https://www.lancers.jp/work/detail/5400101",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-09-25T06:27:39.100278"
+    },
+    {
+      "title": "【急募】SOLIDWORKS2024での機械設計と製図依頼",
+      "link": "https://www.lancers.jp/work/detail/5400338",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-09-25T06:27:39.015180"
+    },
+    {
+      "title": "当社CTソフトへの機能追加:気道抽出",
+      "link": "https://www.lancers.jp/work/detail/5400094",
+      "price": "3,000,000 円 ~ 5,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-09-25T06:27:39.081809"
+    },
+    {
+      "title": "【SES案件多数/リモート可】フルスタックエンジニア募集(フロント〜バック〜クラウドまで歓迎)",
+      "link": "https://www.lancers.jp/work/detail/5399877",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-09-25T06:27:39.136984"
+    },
+    {
+      "title": "【SES案件多数/リモート可】インフラエンジニア募集(AWS/Linux/NW設計・構築 等歓迎)",
+      "link": "https://www.lancers.jp/work/detail/5399876",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-09-25T06:27:39.156844"
+    },
+    {
+      "title": "【急募】Nuxt3でのWEBページ表示速度改善依頼",
+      "link": "https://www.lancers.jp/work/detail/5400231",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-09-25T06:27:39.054126"
+    },
+    {
+      "title": "限定公開 PR 限定公開の仕事",
+      "link": "https://www.lancers.jp/work/detail/5399347",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-09-25T06:27:38.995900"
+    }
+  ]
+}
