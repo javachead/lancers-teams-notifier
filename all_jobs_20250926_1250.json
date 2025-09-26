@@ -1,0 +1,337 @@
+{
+  "timestamp": "2025-09-26T12:50:21.787229",
+  "count": 15,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 4,
+    "GPT": 1,
+    "ChatGPT": 1,
+    "bot": 1,
+    "Python": 1,
+    "PHP": 1,
+    "Django": 1,
+    "アプリ": 1,
+    "ツール": 1,
+    "コンサル": 1,
+    "サイト": 1,
+    "WordPress": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 15,
+    "no_skill_match": 6,
+    "multi_skill_match": 4,
+    "high_priority": 15,
+    "skill_match_rate": 60.0
+  },
+  "jobs": [
+    {
+      "title": "LINExChatGPTx美容室向け予約Bot (仕様書、契約書あり)",
+      "link": "https://www.lancers.jp/work/detail/5400801",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "GPT",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ChatGPT",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "bot",
+          "priority": "高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 445,
+      "scraped_at": "2025-09-26T12:50:21.447403"
+    },
+    {
+      "title": "自社開発のロジシステムをサポート及び開発できる方募集【PHP, Python, VBA etc】",
+      "link": "https://www.lancers.jp/work/detail/5389460",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "PHP",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 305,
+      "scraped_at": "2025-09-26T12:50:21.410018"
+    },
+    {
+      "title": "【急募】WindwosサーバーでのDjangoアプリ環境構築依頼",
+      "link": "https://www.lancers.jp/work/detail/5401279",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Django",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 148,
+      "scraped_at": "2025-09-26T12:50:21.129322"
+    },
+    {
+      "title": "【開発依頼】Amazonセラー向け 価格自動調整ツールの開発",
+      "link": "https://www.lancers.jp/work/detail/5401202",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 128,
+      "scraped_at": "2025-09-26T12:50:21.150217"
+    },
+    {
+      "title": "システムの開発補助や運営サポート【フルリモート×長期】",
+      "link": "https://www.lancers.jp/work/detail/5323359",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 83,
+      "scraped_at": "2025-09-26T12:50:21.429240"
+    },
+    {
+      "title": "【急募】LLMによるMCP(Model Context Protocol)でのExcel操作機能開発",
+      "link": "https://www.lancers.jp/work/detail/5400689",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-09-26T12:50:21.503782"
+    },
+    {
+      "title": "【急募】Zoho CRMで流入検索キーワード確認設定依頼(zohoコンサルができる方はなお可)",
+      "link": "https://www.lancers.jp/work/detail/5401115",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "コンサル",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 48,
+      "scraped_at": "2025-09-26T12:50:21.300416"
+    },
+    {
+      "title": "【急募】音源ライセンス販売サイトのMVP構築依頼",
+      "link": "https://www.lancers.jp/work/detail/5400763",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2025-09-26T12:50:21.465581"
+    },
+    {
+      "title": "wordpressレンダリングを妨げるリソースの除外",
+      "link": "https://www.lancers.jp/work/detail/5016989",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 33,
+      "scraped_at": "2025-09-26T12:50:21.358301"
+    },
+    {
+      "title": "eBayテラピークでのキーワード検索結果等の取得するためのシステム制作",
+      "link": "https://www.lancers.jp/work/detail/5390238",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2025-09-26T12:50:21.484641"
+    },
+    {
+      "title": "Drupal関連プロジェクトの要件定義や基本設計ができる方(1人月、長期継続案件)",
+      "link": "https://www.lancers.jp/work/detail/5400683",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-09-26T12:50:21.522658"
+    },
+    {
+      "title": "金融関連プロジェクトの要件定義や基本設計ができる方(1人月、長期継続案件)",
+      "link": "https://www.lancers.jp/work/detail/5400681",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-09-26T12:50:21.542489"
+    },
+    {
+      "title": "【急募】東京でのWeb制作プロジェクトに参加しませんか?",
+      "link": "https://www.lancers.jp/work/detail/5400965",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-09-26T12:50:21.378092"
+    },
+    {
+      "title": "限定公開 PR 限定公開の仕事",
+      "link": "https://www.lancers.jp/work/detail/5399347",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-09-26T12:50:21.109601"
+    },
+    {
+      "title": "【急募】スーパードルフィーの洋服をオーダーメイドで作成希望",
+      "link": "https://www.lancers.jp/work/detail/5400988",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-09-26T12:50:21.339505"
+    }
+  ]
+}
