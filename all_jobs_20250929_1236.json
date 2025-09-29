@@ -1,0 +1,185 @@
+{
+  "timestamp": "2025-09-29T12:36:28.768482",
+  "count": 8,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 4,
+    "サイト": 3,
+    "ツール": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 8,
+    "no_skill_match": 2,
+    "multi_skill_match": 2,
+    "high_priority": 8,
+    "skill_match_rate": 75.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】リスト抽出ツール開発のフリーランスを探しています!",
+      "link": "https://www.lancers.jp/work/detail/5402362",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 128,
+      "scraped_at": "2025-09-29T12:36:28.630894"
+    },
+    {
+      "title": "商標登録のための依頼者と弁理士をつなぐマッチングサイト開発",
+      "link": "https://www.lancers.jp/work/detail/5402790",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-09-29T12:36:28.546882"
+    },
+    {
+      "title": "日程を作成するシステムの開発",
+      "link": "https://www.lancers.jp/work/detail/5402412",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 78,
+      "scraped_at": "2025-09-29T12:36:28.606760"
+    },
+    {
+      "title": "【ペットのアバター化】Pawsitiveプロトタイプ開発の依頼",
+      "link": "https://www.lancers.jp/work/detail/5399313",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-09-29T12:36:28.587392"
+    },
+    {
+      "title": "【急募】新しい口コミサイトの構築をお手伝いください!",
+      "link": "https://www.lancers.jp/work/detail/5402277",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 38,
+      "scraped_at": "2025-09-29T12:36:28.650435"
+    },
+    {
+      "title": "【急募】ブランドサイトの新商品更新アラート作成依頼",
+      "link": "https://www.lancers.jp/work/detail/5402794",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 33,
+      "scraped_at": "2025-09-29T12:36:28.526393"
+    },
+    {
+      "title": "限定公開 PR 限定公開の仕事",
+      "link": "https://www.lancers.jp/work/detail/5399347",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-09-29T12:36:28.506014"
+    },
+    {
+      "title": "エンジニア面談をお願い致します",
+      "link": "https://www.lancers.jp/work/detail/5402603",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-09-29T12:36:28.566058"
+    }
+  ]
+}
