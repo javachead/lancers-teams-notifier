@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-10-02T06:34:38.858522",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "ツール": 2,
+    "bot": 1,
+    "開発": 1,
+    "スクレイピング": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 2,
+    "multi_skill_match": 2,
+    "high_priority": 5,
+    "skill_match_rate": 60.0
+  },
+  "jobs": [
+    {
+      "title": "【募集】RPAツール「RoboTANGO」設定代行の専門家を探しています",
+      "link": "https://www.lancers.jp/work/detail/5405023",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "bot",
+          "priority": "高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 178,
+      "scraped_at": "2025-10-02T06:34:38.736911"
+    },
+    {
+      "title": "【急募】データ処理のためのExcel VBA・マクロ開発依頼 もしくはスクレイピングによる対応",
+      "link": "https://www.lancers.jp/work/detail/5405218",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 98,
+      "scraped_at": "2025-10-02T06:34:38.697269"
+    },
+    {
+      "title": "【急募】集計分析ツール(keyence社製「KI」)の設定構築経験者",
+      "link": "https://www.lancers.jp/work/detail/5405052",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 73,
+      "scraped_at": "2025-10-02T06:34:38.717513"
+    },
+    {
+      "title": "【在宅勤務】ランサーズ業務委託で働ける、ネパール人個人の方を募集します!",
+      "link": "https://www.lancers.jp/work/detail/5404906",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-10-02T06:34:38.757588"
+    },
+    {
+      "title": "LINE公式アカウントの動作確認・タグ等設定対応",
+      "link": "https://www.lancers.jp/work/detail/5405235",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-10-02T06:34:38.669576"
+    }
+  ]
+}
