@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-10-04T18:21:28.327474",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "AI": 1,
+    "Ai": 1,
+    "API": 1,
+    "ツール": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 3,
+    "multi_skill_match": 2,
+    "high_priority": 5,
+    "skill_match_rate": 40.0
+  },
+  "jobs": [
+    {
+      "title": "【短期〜継続】ブラウザ機能のUI調整・改修|フルスタック募集(AI活用歓迎)",
+      "link": "https://www.lancers.jp/work/detail/5406694",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 303,
+      "scraped_at": "2025-10-04T18:21:28.186021"
+    },
+    {
+      "title": "【せどり×ツール製作】APIを使用したせどりツールを製作できるエンジニアさんを募集します♪",
+      "link": "https://www.lancers.jp/work/detail/5217096",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 243,
+      "scraped_at": "2025-10-04T18:21:28.205087"
+    },
+    {
+      "title": "SoftEtherを用いたVPNの構築",
+      "link": "https://www.lancers.jp/work/detail/5406636",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-10-04T18:21:28.138913"
+    },
+    {
+      "title": "【急募】セレクトタイプ セレクトフォームからのCV測定 グーグル広告 タグマネージャー使用",
+      "link": "https://www.lancers.jp/work/detail/5406717",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-10-04T18:21:28.165898"
+    },
+    {
+      "title": "【個人利用】Web情報収集の仕組み構築ご依頼",
+      "link": "https://www.lancers.jp/work/detail/5406440",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-10-04T18:21:28.226273"
+    }
+  ]
+}
