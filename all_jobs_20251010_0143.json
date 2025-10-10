@@ -1,0 +1,264 @@
+{
+  "timestamp": "2025-10-10T01:43:58.443374",
+  "count": 10,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 6,
+    "アプリ": 3,
+    "ツール": 2,
+    "管理": 2,
+    "サイト": 2,
+    "AI": 1,
+    "Ai": 1,
+    "スクレイピング": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 10,
+    "no_skill_match": 2,
+    "multi_skill_match": 6,
+    "high_priority": 10,
+    "skill_match_rate": 80.0
+  },
+  "jobs": [
+    {
+      "title": "マッチングアプリのAIレコメンド構築",
+      "link": "https://www.lancers.jp/work/detail/5410515",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 338,
+      "scraped_at": "2025-10-10T01:43:58.168734"
+    },
+    {
+      "title": "【相談希望】在庫管理・出品補助ツールの開発に関するZoom面談依頼",
+      "link": "https://www.lancers.jp/work/detail/5398112",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 158,
+      "scraped_at": "2025-10-10T01:43:58.108952"
+    },
+    {
+      "title": "【バックエンド開発】ポータルサイトの予約情報管理システム構築",
+      "link": "https://www.lancers.jp/work/detail/5410302",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 143,
+      "scraped_at": "2025-10-10T01:43:58.187819"
+    },
+    {
+      "title": "海外仕入れ元サイト→ツールを動かす為のCSVファイルに週1で自動抽出の制作(自動/スクレイピング)",
+      "link": "https://www.lancers.jp/work/detail/5251319",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 135,
+      "scraped_at": "2025-10-10T01:43:58.298533"
+    },
+    {
+      "title": "【新規教育プラットフォーム開発】ノーコード・ローコードで構築できる学習アプリ開発パートナー募集!",
+      "link": "https://www.lancers.jp/work/detail/5410616",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-10-10T01:43:58.089102"
+    },
+    {
+      "title": "【急募】クローン作成アプリ開発",
+      "link": "https://www.lancers.jp/work/detail/5409967",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-10-10T01:43:58.280299"
+    },
+    {
+      "title": "大手クレジットカード企業向け、Google Cloudを利用したアジャイル開発共通基盤案件",
+      "link": "https://www.lancers.jp/work/detail/5410520",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-10-10T01:43:58.129099"
+    },
+    {
+      "title": "大手クレジットカード企業向け、Google Cloudを利用したアジャイル開発共通基盤案件_ワーカー",
+      "link": "https://www.lancers.jp/work/detail/5410523",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-10-10T01:43:58.150223"
+    },
+    {
+      "title": "丸太木取り自動計算ソフト試作(製材ライン向け)",
+      "link": "https://www.lancers.jp/work/detail/5410017",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-10-10T01:43:58.245349"
+    },
+    {
+      "title": "【急募】FXトレード履歴を基にしたEA作成依頼",
+      "link": "https://www.lancers.jp/work/detail/5410127",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-10-10T01:43:58.225304"
+    }
+  ]
+}
