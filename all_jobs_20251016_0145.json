@@ -1,0 +1,502 @@
+{
+  "timestamp": "2025-10-16T01:45:48.489946",
+  "count": 20,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 10,
+    "AI": 8,
+    "Ai": 8,
+    "アプリ": 2,
+    "ツール": 2,
+    "WordPress": 2,
+    "Python": 1,
+    "効率化": 1,
+    "bot": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 20,
+    "no_skill_match": 3,
+    "multi_skill_match": 10,
+    "high_priority": 20,
+    "skill_match_rate": 85.0
+  },
+  "jobs": [
+    {
+      "title": "n8n×Python×AIで公開レポート自動探索・抽出・分類・登録フロー(PoC開発)",
+      "link": "https://www.lancers.jp/work/detail/5413825",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 538,
+      "scraped_at": "2025-10-16T01:45:48.024543"
+    },
+    {
+      "title": "【急募】AI×LINE開発をリード!医療機関向けアプリのサーバーサイドエンジニア募集(フルリモート)",
+      "link": "https://www.lancers.jp/work/detail/5413230",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 385,
+      "scraped_at": "2025-10-16T01:45:48.232810"
+    },
+    {
+      "title": "【急募】不動産評価システムのAIチャットポット開発者募集",
+      "link": "https://www.lancers.jp/work/detail/5413280",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 383,
+      "scraped_at": "2025-10-16T01:45:48.196925"
+    },
+    {
+      "title": "【急募】ローカルAI開発プロジェクトの協力者を探しています!",
+      "link": "https://www.lancers.jp/work/detail/5413402",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 375,
+      "scraped_at": "2025-10-16T01:45:48.120079"
+    },
+    {
+      "title": "【高報酬/リモート可/法人可】グローバルHRベンチャーでAIを活用し業務効率化を推進してくださる方!",
+      "link": "https://www.lancers.jp/work/detail/5413210",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "効率化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 370,
+      "scraped_at": "2025-10-16T01:45:48.215018"
+    },
+    {
+      "title": "【急募】AIテキスト抜粋アプリのプロンプト最適化依頼",
+      "link": "https://www.lancers.jp/work/detail/5413215",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 338,
+      "scraped_at": "2025-10-16T01:45:48.250465"
+    },
+    {
+      "title": "【Azure/RAG】社内文書検索AIチャットボットの精度向上&内製化支援パートナー募集!",
+      "link": "https://www.lancers.jp/work/detail/5413954",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 310,
+      "scraped_at": "2025-10-16T01:45:47.895940"
+    },
+    {
+      "title": "生成AIの技術顧問を募集!事業の技術選定をリードするAI専門家を募集! 【週1日〜/フルリモート】",
+      "link": "https://www.lancers.jp/work/detail/5413955",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 303,
+      "scraped_at": "2025-10-16T01:45:47.914735"
+    },
+    {
+      "title": "コスパスポーツジムの高速自動予約botの開発",
+      "link": "https://www.lancers.jp/work/detail/5413835",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "bot",
+          "priority": "高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 173,
+      "scraped_at": "2025-10-16T01:45:47.967013"
+    },
+    {
+      "title": "3Dプリント用データのWeb自動チェック&変換&カラー補正ツール|開発パートナー募集",
+      "link": "https://www.lancers.jp/work/detail/5413508",
+      "price": "5,000,000 円 ~ / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 135,
+      "scraped_at": "2025-10-16T01:45:48.063787"
+    },
+    {
+      "title": "【長期依頼】海外クリエイター向けサービスの開発保守|Laravel+Livewireエンジニア募集",
+      "link": "https://www.lancers.jp/work/detail/5414105",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-10-16T01:45:47.776530"
+    },
+    {
+      "title": "【急募】見積書自動作成機能の開発",
+      "link": "https://www.lancers.jp/work/detail/5414108",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-10-16T01:45:47.796096"
+    },
+    {
+      "title": "セレニウムを用いた自動発注ツールの修正・機能追加",
+      "link": "https://www.lancers.jp/work/detail/5413916",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 73,
+      "scraped_at": "2025-10-16T01:45:47.857183"
+    },
+    {
+      "title": "IB報酬を得るための高性能EA開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5413293",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-10-16T01:45:48.159635"
+    },
+    {
+      "title": "【音声コマンド起動】超小型・低電力レコーダーのプロトタイプ開発",
+      "link": "https://www.lancers.jp/work/detail/5413958",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 63,
+      "scraped_at": "2025-10-16T01:45:47.946476"
+    },
+    {
+      "title": "wordpressレンダリングを妨げるリソースの除外",
+      "link": "https://www.lancers.jp/work/detail/5016989",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 33,
+      "scraped_at": "2025-10-16T01:45:48.139115"
+    },
+    {
+      "title": "【急募】Cloud RunでWordPress構築のプロを探しています!",
+      "link": "https://www.lancers.jp/work/detail/5413043",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 25,
+      "scraped_at": "2025-10-16T01:45:48.044278"
+    },
+    {
+      "title": "【急募】16タイプ診断コンテンツのLP制作",
+      "link": "https://www.lancers.jp/work/detail/5408735",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-10-16T01:45:48.005479"
+    },
+    {
+      "title": "【急募】Teams Roomsの設定設置と保守サポート依頼",
+      "link": "https://www.lancers.jp/work/detail/5408814",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-10-16T01:45:47.986722"
+    },
+    {
+      "title": "Access 32bitから64bitへの修正改善依頼",
+      "link": "https://www.lancers.jp/work/detail/5413333",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-10-16T01:45:48.178876"
+    }
+  ]
+}
