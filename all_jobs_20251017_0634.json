@@ -1,0 +1,106 @@
+{
+  "timestamp": "2025-10-17T06:34:22.067798",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "ツール": 2,
+    "bot": 1,
+    "開発": 1,
+    "管理": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 2,
+    "multi_skill_match": 2,
+    "high_priority": 4,
+    "skill_match_rate": 50.0
+  },
+  "jobs": [
+    {
+      "title": "【募集】RPAツール「RoboTANGO」設定代行の専門家を探しています",
+      "link": "https://www.lancers.jp/work/detail/5405023",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "bot",
+          "priority": "高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 178,
+      "scraped_at": "2025-10-17T06:34:21.961061"
+    },
+    {
+      "title": "【相談希望】在庫管理・出品補助ツールの開発に関するZoom面談依頼",
+      "link": "https://www.lancers.jp/work/detail/5398112",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 158,
+      "scraped_at": "2025-10-17T06:34:21.918066"
+    },
+    {
+      "title": "【医薬品マッチング】高額医薬品の譲渡支援システム構築",
+      "link": "https://www.lancers.jp/work/detail/5415061",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2025-10-17T06:34:21.898069"
+    },
+    {
+      "title": "初回 【急募・即決します】VBAで1問1答問題集の作成",
+      "link": "https://www.lancers.jp/work/detail/5414812",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-10-17T06:34:21.991246"
+    }
+  ]
+}
