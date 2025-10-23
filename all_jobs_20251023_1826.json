@@ -1,0 +1,288 @@
+{
+  "timestamp": "2025-10-23T18:26:46.939190",
+  "count": 13,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "アプリ": 5,
+    "開発": 4,
+    "サイト": 2,
+    "Python": 1,
+    "API": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 13,
+    "no_skill_match": 6,
+    "multi_skill_match": 5,
+    "high_priority": 13,
+    "skill_match_rate": 53.8
+  },
+  "jobs": [
+    {
+      "title": "【26年5月/17日間/対面】Python Webアプリ開発 研修講師募集(カリキュラム設計含む)",
+      "link": "https://www.lancers.jp/work/detail/5419191",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 295,
+      "scraped_at": "2025-10-23T18:26:46.561130"
+    },
+    {
+      "title": "【急募】APIを利用した診断サイト構築のフリーランス募集",
+      "link": "https://www.lancers.jp/work/detail/5418643",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 220,
+      "scraped_at": "2025-10-23T18:26:46.537843"
+    },
+    {
+      "title": "【新規開発】iOS向けポイ活アプリの技術検証・設計者募集",
+      "link": "https://www.lancers.jp/work/detail/5419221",
+      "price": "5,000,000 円 ~ / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 100,
+      "scraped_at": "2025-10-23T18:26:46.496871"
+    },
+    {
+      "title": "【急募】施行主向け建築資材配達アプリ開発者を募集します",
+      "link": "https://www.lancers.jp/work/detail/5418447",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 100,
+      "scraped_at": "2025-10-23T18:26:46.704933"
+    },
+    {
+      "title": "ボディスコアアプリの開発",
+      "link": "https://www.lancers.jp/work/detail/5419226",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-10-23T18:26:46.515937"
+    },
+    {
+      "title": "【高品質な恋愛マッチングアプリ制作】エンジニア募集",
+      "link": "https://www.lancers.jp/work/detail/5418455",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2025-10-23T18:26:46.722483"
+    },
+    {
+      "title": "【Webarena suiteX/DNS】ドメイン設定変更によるウェブサイト分割とサイト切り替え",
+      "link": "https://www.lancers.jp/work/detail/5417544",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2025-10-23T18:26:46.740347"
+    },
+    {
+      "title": "ERPシステムの第三者技術検証・品質評価報告書作成",
+      "link": "https://www.lancers.jp/work/detail/5418891",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 40,
+      "scraped_at": "2025-10-23T18:26:46.598571"
+    },
+    {
+      "title": "【急募】セッション体験を再現するクローンシステム構築依頼",
+      "link": "https://www.lancers.jp/work/detail/5418644",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 40,
+      "scraped_at": "2025-10-23T18:26:46.758684"
+    },
+    {
+      "title": "【急募】既存の予約システムの料金修正を依頼します",
+      "link": "https://www.lancers.jp/work/detail/5418759",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-10-23T18:26:46.667272"
+    },
+    {
+      "title": "Stable Diffusion LoRA制作依頼 画風再現+キャラLoRA量産テンプレ構築",
+      "link": "https://www.lancers.jp/work/detail/5418738",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-10-23T18:26:46.648033"
+    },
+    {
+      "title": "【メールマーケティング】戦略立案・実行者募集",
+      "link": "https://www.lancers.jp/work/detail/5418443",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-10-23T18:26:46.686649"
+    },
+    {
+      "title": "【急募】HPの微修正をお手伝いしてくれる方募集!",
+      "link": "https://www.lancers.jp/work/detail/5418445",
+      "price": "5,000 円 ~",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-10-23T18:26:46.823047"
+    }
+  ]
+}
