@@ -1,0 +1,181 @@
+{
+  "timestamp": "2025-10-30T06:26:41.559272",
+  "count": 8,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 3,
+    "Python": 1,
+    "スクレイピング": 1,
+    "API": 1,
+    "ツール": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 8,
+    "no_skill_match": 4,
+    "multi_skill_match": 2,
+    "high_priority": 8,
+    "skill_match_rate": 50.0
+  },
+  "jobs": [
+    {
+      "title": "Excel・Accessベースの改修や追加、Pythonスクレイピングやデータ整形等の開発員募集",
+      "link": "https://www.lancers.jp/work/detail/5405426",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 305,
+      "scraped_at": "2025-10-30T06:26:41.380812"
+    },
+    {
+      "title": "【せどり×ツール製作】APIを使用したせどりツールを製作できるエンジニアさんを募集します♪",
+      "link": "https://www.lancers.jp/work/detail/5217096",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 243,
+      "scraped_at": "2025-10-30T06:26:41.400469"
+    },
+    {
+      "title": "大手クレジットカード企業向け、Google Cloudを利用したアジャイル開発共通基盤案件",
+      "link": "https://www.lancers.jp/work/detail/5418320",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-10-30T06:26:41.297811"
+    },
+    {
+      "title": "大手クレジットカード企業向け、Google Cloudを利用したアジャイル開発共通基盤案件_ワーカー",
+      "link": "https://www.lancers.jp/work/detail/5418318",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-10-30T06:26:41.317956"
+    },
+    {
+      "title": "PaddlePaddle/PaddleOCR 文字列OCR 学習(検出+認識)",
+      "link": "https://www.lancers.jp/work/detail/5423522",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-10-30T06:26:41.343052"
+    },
+    {
+      "title": "【フルリモート】SESエンジニア募集|スキルに応じて30〜40万円/月|複数案件あり・継続前提",
+      "link": "https://www.lancers.jp/work/detail/5417644",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-10-30T06:26:41.433406"
+    },
+    {
+      "title": "【急募】非接触センサー×Bluetoothデバイスのアイデア壁打ち相談",
+      "link": "https://www.lancers.jp/work/detail/5423605",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-10-30T06:26:41.278249"
+    },
+    {
+      "title": "Google Workspace × さくらサーバー DNSメール設定代行依頼",
+      "link": "https://www.lancers.jp/work/detail/5423476",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-10-30T06:26:41.362298"
+    }
+  ]
+}
