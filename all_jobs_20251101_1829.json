@@ -1,0 +1,86 @@
+{
+  "timestamp": "2025-11-01T18:29:11.935179",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "管理": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 3,
+    "multi_skill_match": 0,
+    "high_priority": 4,
+    "skill_match_rate": 25.0
+  },
+  "jobs": [
+    {
+      "title": "【募集】売上金額表と在庫管理のエクセル作成依頼",
+      "link": "https://www.lancers.jp/work/detail/5425201",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2025-11-01T18:29:11.759351"
+    },
+    {
+      "title": "【AWS→Xサーバー移行】サーバー構築の専門家募集",
+      "link": "https://www.lancers.jp/work/detail/5425003",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-11-01T18:29:11.799525"
+    },
+    {
+      "title": "【急募】ECフォース EFO利用 META広告計測設定の経験者募集",
+      "link": "https://www.lancers.jp/work/detail/5425263",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-11-01T18:29:11.719510"
+    },
+    {
+      "title": "【電子工作】基盤にDCケーブルのターミナルと抵抗を追加したい方募集!",
+      "link": "https://www.lancers.jp/work/detail/5424906",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-11-01T18:29:11.819430"
+    }
+  ]
+}
