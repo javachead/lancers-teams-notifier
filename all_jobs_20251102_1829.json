@@ -1,0 +1,195 @@
+{
+  "timestamp": "2025-11-02T18:29:54.124554",
+  "count": 8,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "AI": 3,
+    "Ai": 3,
+    "サイト": 2,
+    "自動化": 1,
+    "MySQL": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 8,
+    "no_skill_match": 2,
+    "multi_skill_match": 3,
+    "high_priority": 8,
+    "skill_match_rate": 75.0
+  },
+  "jobs": [
+    {
+      "title": "【業務自動化×補助金対応】生成AI活用/日本人モデル画像生成歓迎",
+      "link": "https://www.lancers.jp/work/detail/5405834",
+      "price": "3,000,000 円 ~ 5,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 395,
+      "scraped_at": "2025-11-02T18:29:53.957869"
+    },
+    {
+      "title": "【急募】AI×ノーコードで動画自動制作ワークフロー構築",
+      "link": "https://www.lancers.jp/work/detail/5425676",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 303,
+      "scraped_at": "2025-11-02T18:29:53.937858"
+    },
+    {
+      "title": "製造業向けAI戦略アドバイザー募集(事業価値試算・プロジェクト推進支援)",
+      "link": "https://www.lancers.jp/work/detail/5419380",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 298,
+      "scraped_at": "2025-11-02T18:29:53.918788"
+    },
+    {
+      "title": "初回 【急募】ECサイトの要件定義や基本設計ができる方を募集(1人月、フルリモート可、2025年12月〜)",
+      "link": "https://www.lancers.jp/work/detail/5425629",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2025-11-02T18:29:53.878075"
+    },
+    {
+      "title": "対象ECサイトがどのECカートシステムを利用しているかの調査",
+      "link": "https://www.lancers.jp/work/detail/5425697",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2025-11-02T18:29:53.899778"
+    },
+    {
+      "title": "【Ubuntu】MySQLデータを自動CSV化しクラウド保存構築",
+      "link": "https://www.lancers.jp/work/detail/5420180",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "MySQL",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2025-11-02T18:29:53.830768"
+    },
+    {
+      "title": "【急募】Transformerベースのテキストエンコーダー経験者募集",
+      "link": "https://www.lancers.jp/work/detail/5425363",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-11-02T18:29:53.990062"
+    },
+    {
+      "title": "【急募】ECフォース EFO利用 META広告計測設定の経験者募集",
+      "link": "https://www.lancers.jp/work/detail/5425263",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-11-02T18:29:54.010382"
+    }
+  ]
+}
