@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-11-03T18:25:06.170469",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "ツール": 2,
+    "bot": 1,
+    "スクレイピング": 1,
+    "サイト": 1,
+    "開発": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 2,
+    "multi_skill_match": 2,
+    "high_priority": 5,
+    "skill_match_rate": 60.0
+  },
+  "jobs": [
+    {
+      "title": "【募集】RPAツール「RoboTANGO」設定代行の専門家を探しています",
+      "link": "https://www.lancers.jp/work/detail/5405023",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "bot",
+          "priority": "高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 178,
+      "scraped_at": "2025-11-03T18:25:06.022925"
+    },
+    {
+      "title": "海外仕入れ元サイト→ツールを動かす為のCSVファイルに週1で自動抽出の制作(自動/スクレイピング)",
+      "link": "https://www.lancers.jp/work/detail/5251319",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 135,
+      "scraped_at": "2025-11-03T18:25:06.042088"
+    },
+    {
+      "title": "【C#開発】競馬JRA-VAN DataLabを介して、過去レース情報を取得し、DBに保存する業務",
+      "link": "https://www.lancers.jp/work/detail/5425801",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-11-03T18:25:06.062413"
+    },
+    {
+      "title": "【急募】LINEオプチャ指示を基にしたMT4自動発注システム構築",
+      "link": "https://www.lancers.jp/work/detail/5426185",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2025-11-03T18:25:05.982472"
+    },
+    {
+      "title": "【緊急募集】Laravel + Vue.js オンライン日本語学校システムのバグ修正エンジニア",
+      "link": "https://www.lancers.jp/work/detail/5426038",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 28,
+      "scraped_at": "2025-11-03T18:25:06.002553"
+    }
+  ]
+}
