@@ -1,0 +1,139 @@
+{
+  "timestamp": "2025-11-04T06:37:39.875606",
+  "count": 6,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "サイト": 2,
+    "WordPress": 1,
+    "アプリ": 1,
+    "PHP": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 6,
+    "no_skill_match": 3,
+    "multi_skill_match": 2,
+    "high_priority": 6,
+    "skill_match_rate": 50.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】WordPressで施設検索サイトのMVPを相談しながら構築いただける方を探しています!",
+      "link": "https://www.lancers.jp/work/detail/5426483",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 65,
+      "scraped_at": "2025-11-04T06:37:39.701718"
+    },
+    {
+      "title": "PHP業務アプリケーションの改修対応",
+      "link": "https://www.lancers.jp/work/detail/5426598",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "PHP",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 58,
+      "scraped_at": "2025-11-04T06:37:39.659651"
+    },
+    {
+      "title": "社外エンジニア(WEBサイトやシステムのメンテナンス等の保守/改修等)の募集",
+      "link": "https://www.lancers.jp/work/detail/5426251",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 53,
+      "scraped_at": "2025-11-04T06:37:39.762736"
+    },
+    {
+      "title": "【急募】警備スタッフと各作業現場のマッチングシステム構築依頼",
+      "link": "https://www.lancers.jp/work/detail/5426527",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 40,
+      "scraped_at": "2025-11-04T06:37:39.721989"
+    },
+    {
+      "title": "〖リモート可〗Delphiエンジニア募集",
+      "link": "https://www.lancers.jp/work/detail/5341051",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-11-04T06:37:39.743250"
+    },
+    {
+      "title": "PowerAutomate GoogleドライブからCSVをダウンロードしてヤマトWEBで印刷処理",
+      "link": "https://www.lancers.jp/work/detail/5426627",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-11-04T06:37:39.680592"
+    }
+  ]
+}
