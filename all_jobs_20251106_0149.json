@@ -1,0 +1,306 @@
+{
+  "timestamp": "2025-11-06T01:49:49.368479",
+  "count": 12,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 5,
+    "AI": 3,
+    "アプリ": 3,
+    "Ai": 3,
+    "ツール": 2,
+    "GPT": 1,
+    "ChatGPT": 1,
+    "サイト": 1,
+    "Next.js": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 12,
+    "no_skill_match": 3,
+    "multi_skill_match": 7,
+    "high_priority": 12,
+    "skill_match_rate": 75.0
+  },
+  "jobs": [
+    {
+      "title": "医療機関向けAIアプリとLINEの連携開発を支援してくださるAIエンジニア募集(AI/バックエンド)",
+      "link": "https://www.lancers.jp/work/detail/5416301",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 385,
+      "scraped_at": "2025-11-06T01:49:49.196817"
+    },
+    {
+      "title": "ワードプレスサイト内に、chatgptのテキスト自動作成と自動でコピー状態の設定",
+      "link": "https://www.lancers.jp/work/detail/5420440",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "GPT",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ChatGPT",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 350,
+      "scraped_at": "2025-11-06T01:49:49.157138"
+    },
+    {
+      "title": "大手製造業向け センサー画像解析・高画質化のR&Dを支援するAIエンジニア募集(画像生成/超解像)",
+      "link": "https://www.lancers.jp/work/detail/5427956",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 310,
+      "scraped_at": "2025-11-06T01:49:48.986154"
+    },
+    {
+      "title": "Stable Diffusionに詳しいLoRAなどを用いた画像生成AIエンジニア募集",
+      "link": "https://www.lancers.jp/work/detail/5416328",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 310,
+      "scraped_at": "2025-11-06T01:49:49.178057"
+    },
+    {
+      "title": "<Next.js、バックエンド開発> ガントチャートアプリの改修製造",
+      "link": "https://www.lancers.jp/work/detail/5427011",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Next.js",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 225,
+      "scraped_at": "2025-11-06T01:49:49.215796"
+    },
+    {
+      "title": "【急募】キントーン見積書をエクセルに変換するツール開発",
+      "link": "https://www.lancers.jp/work/detail/5427648",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 120,
+      "scraped_at": "2025-11-06T01:49:49.066339"
+    },
+    {
+      "title": "デフォルトカメラ機能を活用したアプリ開発",
+      "link": "https://www.lancers.jp/work/detail/5427397",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 100,
+      "scraped_at": "2025-11-06T01:49:49.117709"
+    },
+    {
+      "title": "弥生販売 得意先台帳登録 商品登録 売上伝票作成ツールのご相談",
+      "link": "https://www.lancers.jp/work/detail/5427338",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 73,
+      "scraped_at": "2025-11-06T01:49:49.137306"
+    },
+    {
+      "title": "IB報酬を得るための高性能EA開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5427682",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-11-06T01:49:49.006258"
+    },
+    {
+      "title": "【急募】完全オンラインでのLstep構築・運用依頼",
+      "link": "https://www.lancers.jp/work/detail/5427793",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-11-06T01:49:49.028242"
+    },
+    {
+      "title": "【継続依頼あり】GASやn8nのオンラインセミナー研修講師を募集!",
+      "link": "https://www.lancers.jp/work/detail/5427459",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-11-06T01:49:49.086394"
+    },
+    {
+      "title": "中国語 ワードプレスの分かる人",
+      "link": "https://www.lancers.jp/work/detail/5427699",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-11-06T01:49:49.047197"
+    }
+  ]
+}
