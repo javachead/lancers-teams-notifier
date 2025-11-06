@@ -1,0 +1,140 @@
+{
+  "timestamp": "2025-11-06T06:35:31.196215",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "管理": 2,
+    "AI": 1,
+    "Ai": 1,
+    "API": 1,
+    "ツール": 1,
+    "サイト": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 0,
+    "multi_skill_match": 3,
+    "high_priority": 5,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "大手製造業向け センサー画像解析・高画質化のR&Dを支援するAIエンジニア募集(画像生成/超解像)",
+      "link": "https://www.lancers.jp/work/detail/5427956",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 310,
+      "scraped_at": "2025-11-06T06:35:31.088747"
+    },
+    {
+      "title": "【せどり×ツール製作】APIを使用したせどりツールを製作できるエンジニアさんを募集します♪",
+      "link": "https://www.lancers.jp/work/detail/5217096",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 243,
+      "scraped_at": "2025-11-06T06:35:31.044050"
+    },
+    {
+      "title": "【急募】GitHub管理のBootstrapサイト移行作業依頼",
+      "link": "https://www.lancers.jp/work/detail/5428337",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 58,
+      "scraped_at": "2025-11-06T06:35:31.005213"
+    },
+    {
+      "title": "勤怠管理システムの改修依頼",
+      "link": "https://www.lancers.jp/work/detail/5428278",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 53,
+      "scraped_at": "2025-11-06T06:35:31.024367"
+    },
+    {
+      "title": "【急募】WEB会計アプリ機能修正!納期11/09希望",
+      "link": "https://www.lancers.jp/work/detail/5428124",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 38,
+      "scraped_at": "2025-11-06T06:35:31.067469"
+    }
+  ]
+}
