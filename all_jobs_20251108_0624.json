@@ -1,0 +1,120 @@
+{
+  "timestamp": "2025-11-08T06:24:04.386420",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "ツール": 2,
+    "開発": 2,
+    "自動化": 2,
+    "WordPress": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 1,
+    "multi_skill_match": 2,
+    "high_priority": 4,
+    "skill_match_rate": 75.0
+  },
+  "jobs": [
+    {
+      "title": "WordPress保守業務および保守業務の自動化ツール開発",
+      "link": "https://www.lancers.jp/work/detail/5429668",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 218,
+      "scraped_at": "2025-11-08T06:24:04.234870"
+    },
+    {
+      "title": "複数の見積書から情報抜き出して別表に書き出す作業の自動化 Excel VBAツール開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5429304",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 208,
+      "scraped_at": "2025-11-08T06:24:04.282167"
+    },
+    {
+      "title": "【急募】既存で作成済みのAccessデータベースをPower Apps等のアプリに移行したい",
+      "link": "https://www.lancers.jp/work/detail/5429495",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 33,
+      "scraped_at": "2025-11-08T06:24:04.254865"
+    },
+    {
+      "title": "【フルスタックエンジニア】 働きながらスキルアップもできるEC業界で活躍してみませんか?",
+      "link": "https://www.lancers.jp/work/detail/5429335",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-11-08T06:24:04.301038"
+    }
+  ]
+}
