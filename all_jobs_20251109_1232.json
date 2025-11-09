@@ -1,0 +1,248 @@
+{
+  "timestamp": "2025-11-09T12:32:36.435159",
+  "count": 11,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 4,
+    "サイト": 2,
+    "ツール": 1,
+    "スクレイピング": 1,
+    "WordPress": 1,
+    "MySQL": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 11,
+    "no_skill_match": 6,
+    "multi_skill_match": 4,
+    "high_priority": 11,
+    "skill_match_rate": 45.5
+  },
+  "jobs": [
+    {
+      "title": "海外仕入れ元サイト→ツールを動かす為のCSVファイルに週1で自動抽出の制作(自動/スクレイピング)",
+      "link": "https://www.lancers.jp/work/detail/5251319",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 135,
+      "scraped_at": "2025-11-09T12:32:36.136628"
+    },
+    {
+      "title": "【急募】Wordpressを用いた比較サイトの新規開発",
+      "link": "https://www.lancers.jp/work/detail/5430121",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 123,
+      "scraped_at": "2025-11-09T12:32:36.210664"
+    },
+    {
+      "title": "Glideメインで作成したシステムをLinux+MySQL型に移行するための新規開発",
+      "link": "https://www.lancers.jp/work/detail/5430095",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "MySQL",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 115,
+      "scraped_at": "2025-11-09T12:32:36.248721"
+    },
+    {
+      "title": "初回 webアプリの開発",
+      "link": "https://www.lancers.jp/work/detail/5430337",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 100,
+      "scraped_at": "2025-11-09T12:32:36.077312"
+    },
+    {
+      "title": "【急募】ビデオサーバー開発:MXFファイル再生とHD-SDI出力",
+      "link": "https://www.lancers.jp/work/detail/5430205",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2025-11-09T12:32:36.179936"
+    },
+    {
+      "title": "小売店向けシステム性能試験",
+      "link": "https://www.lancers.jp/work/detail/5430176",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 40,
+      "scraped_at": "2025-11-09T12:32:36.155045"
+    },
+    {
+      "title": "【急募】YAMAHA RTX1210のVLAN設定作業",
+      "link": "https://www.lancers.jp/work/detail/5430327",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-11-09T12:32:36.097012"
+    },
+    {
+      "title": "初回 飲食手向けハンディ、モバイルオーダー検証",
+      "link": "https://www.lancers.jp/work/detail/5430301",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-11-09T12:32:36.118200"
+    },
+    {
+      "title": "インターネット情報収集(selenium)",
+      "link": "https://www.lancers.jp/work/detail/5430171",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-11-09T12:32:36.229369"
+    },
+    {
+      "title": "MT4 RSXを使用したEAの作成依頼",
+      "link": "https://www.lancers.jp/work/detail/5430008",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-11-09T12:32:36.269462"
+    },
+    {
+      "title": "【急募】LINE × QRコード連携で自動取得設定を実現!",
+      "link": "https://www.lancers.jp/work/detail/5430015",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-11-09T12:32:36.287433"
+    }
+  ]
+}
