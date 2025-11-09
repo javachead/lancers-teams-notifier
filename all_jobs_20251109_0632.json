@@ -1,0 +1,122 @@
+{
+  "timestamp": "2025-11-09T06:32:43.128299",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 2,
+    "サイト": 1,
+    "WordPress": 1,
+    "MySQL": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 3,
+    "multi_skill_match": 2,
+    "high_priority": 5,
+    "skill_match_rate": 40.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】Wordpressを用いた比較サイトの新規開発",
+      "link": "https://www.lancers.jp/work/detail/5430121",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 123,
+      "scraped_at": "2025-11-09T06:32:42.945343"
+    },
+    {
+      "title": "Glideメインで作成したシステムをLinux+MySQL型に移行するための新規開発",
+      "link": "https://www.lancers.jp/work/detail/5430095",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "MySQL",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 115,
+      "scraped_at": "2025-11-09T06:32:42.985031"
+    },
+    {
+      "title": "インターネット情報収集(selenium)",
+      "link": "https://www.lancers.jp/work/detail/5430171",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-11-09T06:32:42.965070"
+    },
+    {
+      "title": "MT4 RSXを使用したEAの作成依頼",
+      "link": "https://www.lancers.jp/work/detail/5430008",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-11-09T06:32:43.003986"
+    },
+    {
+      "title": "【急募】LINE × QRコード連携で自動取得設定を実現!",
+      "link": "https://www.lancers.jp/work/detail/5430015",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-11-09T06:32:43.024565"
+    }
+  ]
+}
