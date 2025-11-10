@@ -1,0 +1,171 @@
+{
+  "timestamp": "2025-11-10T06:38:04.850084",
+  "count": 7,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "効率化": 2,
+    "AI": 1,
+    "開発": 1,
+    "管理": 1,
+    "Ai": 1,
+    "React": 1,
+    "Node.js": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 7,
+    "no_skill_match": 3,
+    "multi_skill_match": 2,
+    "high_priority": 7,
+    "skill_match_rate": 57.1
+  },
+  "jobs": [
+    {
+      "title": "【募集】習慣化+目標管理を目的としたAIネイティブなWebサービスのMVP開発",
+      "link": "https://www.lancers.jp/work/detail/5430365",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 378,
+      "scraped_at": "2025-11-10T06:38:04.718299"
+    },
+    {
+      "title": "通話機能の安定化・不具合調査/改修(React Native × Node.js)",
+      "link": "https://www.lancers.jp/work/detail/5430799",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "React",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Node.js",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 163,
+      "scraped_at": "2025-11-10T06:38:04.636907"
+    },
+    {
+      "title": "完全在宅GASエンジニア募集/課題テストからご依頼/時給1,163円~業務フロー効率化をお任せします",
+      "link": "https://www.lancers.jp/work/detail/5416665",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "効率化",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 70,
+      "scraped_at": "2025-11-10T06:38:04.679064"
+    },
+    {
+      "title": "【業務効率化】SlackとHubSpotの活用支援をお願いします",
+      "link": "https://www.lancers.jp/work/detail/5430436",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "効率化",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 70,
+      "scraped_at": "2025-11-10T06:38:04.698032"
+    },
+    {
+      "title": "【若手歓迎×リモートOK】SRE/インフラエンジニア(Google Cloud/長期・金融系案件)",
+      "link": "https://www.lancers.jp/work/detail/5428756",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-11-10T06:38:04.591930"
+    },
+    {
+      "title": "【リーダー募集×リモートOK】SRE/インフラエンジニア(Google Cloud/長期金融系案件)",
+      "link": "https://www.lancers.jp/work/detail/5428755",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-11-10T06:38:04.613234"
+    },
+    {
+      "title": "【データ加工のプロ募集】施設情報データの修正・整備依頼",
+      "link": "https://www.lancers.jp/work/detail/5417622",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-11-10T06:38:04.657002"
+    }
+  ]
+}
