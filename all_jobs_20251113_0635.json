@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-11-13T06:35:39.758104",
+  "count": 6,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "API": 1,
+    "ツール": 1,
+    "開発": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 6,
+    "no_skill_match": 4,
+    "multi_skill_match": 1,
+    "high_priority": 6,
+    "skill_match_rate": 33.3
+  },
+  "jobs": [
+    {
+      "title": "【せどり×ツール製作】APIを使用したせどりツールを製作できるエンジニアさんを募集します♪",
+      "link": "https://www.lancers.jp/work/detail/5217096",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 243,
+      "scraped_at": "2025-11-13T06:35:39.564392"
+    },
+    {
+      "title": "【日本人限定・長期募集】SNS運用担当募集|Web開発会社 JapanDream",
+      "link": "https://www.lancers.jp/work/detail/5432819",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-11-13T06:35:39.583139"
+    },
+    {
+      "title": "【急募】オンラインガチャ制作のフリーランスを探しています!",
+      "link": "https://www.lancers.jp/work/detail/5433143",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-11-13T06:35:39.484351"
+    },
+    {
+      "title": "Networkエンジニア",
+      "link": "https://www.lancers.jp/work/detail/5432661",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-11-13T06:35:39.602873"
+    },
+    {
+      "title": "WooCommerce消費税設定のカスタマイズ依頼",
+      "link": "https://www.lancers.jp/work/detail/5432929",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-11-13T06:35:39.545023"
+    },
+    {
+      "title": "適合商品検索ページ作成",
+      "link": "https://www.lancers.jp/work/detail/5432621",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-11-13T06:35:39.633379"
+    }
+  ]
+}
