@@ -1,0 +1,177 @@
+{
+  "timestamp": "2025-11-14T06:35:29.724003",
+  "count": 8,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "WordPress": 2,
+    "AI": 1,
+    "Ai": 1,
+    "開発": 1,
+    "サイト": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 8,
+    "no_skill_match": 4,
+    "multi_skill_match": 2,
+    "high_priority": 8,
+    "skill_match_rate": 50.0
+  },
+  "jobs": [
+    {
+      "title": "【GAS】Yahoo!ショッピング注文完了メール (Gmail) からスプレッドシートに転記する仕事",
+      "link": "https://www.lancers.jp/work/detail/5433649",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 298,
+      "scraped_at": "2025-11-14T06:35:29.592812"
+    },
+    {
+      "title": "英語教育の公式LINEアカウント開発・運用スタッフ募集【即日〜3月/4ヶ月/継続可能】",
+      "link": "https://www.lancers.jp/work/detail/5433668",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 63,
+      "scraped_at": "2025-11-14T06:35:29.611368"
+    },
+    {
+      "title": "【急募】WordPressでの商品検索サイト構築依頼",
+      "link": "https://www.lancers.jp/work/detail/5433985",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 58,
+      "scraped_at": "2025-11-14T06:35:29.389837"
+    },
+    {
+      "title": "wordpressレンダリングを妨げるリソースの除外",
+      "link": "https://www.lancers.jp/work/detail/5016989",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 33,
+      "scraped_at": "2025-11-14T06:35:29.522906"
+    },
+    {
+      "title": "【相談から】Laravel7からLaravel12へのサーバーアップデート依頼",
+      "link": "https://www.lancers.jp/work/detail/5433727",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-11-14T06:35:29.573249"
+    },
+    {
+      "title": "初回 ★社内の音響設計スキル向上のため、Modeler / EASE Focus を教えていただける方",
+      "link": "https://www.lancers.jp/work/detail/5433823",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-11-14T06:35:29.541122"
+    },
+    {
+      "title": "月1~5万円以内の小規模タスク依頼",
+      "link": "https://www.lancers.jp/work/detail/5433937",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-11-14T06:35:29.503767"
+    },
+    {
+      "title": "【急募】Unityで自動ルート設計プログラムが実現可能か専門家に相談がしたい",
+      "link": "https://www.lancers.jp/work/detail/5434061",
+      "price": "1,000 ~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-11-14T06:35:29.409247"
+    }
+  ]
+}
