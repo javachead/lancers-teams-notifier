@@ -1,0 +1,144 @@
+{
+  "timestamp": "2025-11-19T06:35:10.177096",
+  "count": 6,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 2,
+    "API": 1,
+    "ツール": 1,
+    "システム開発": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 6,
+    "no_skill_match": 3,
+    "multi_skill_match": 3,
+    "high_priority": 6,
+    "skill_match_rate": 50.0
+  },
+  "jobs": [
+    {
+      "title": "【せどり×ツール製作】APIを使用したせどりツールを製作できるエンジニアさんを募集します♪",
+      "link": "https://www.lancers.jp/work/detail/5217096",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 243,
+      "scraped_at": "2025-11-19T06:35:10.055884"
+    },
+    {
+      "title": "ホットペッパービューティーブログ一括投稿システム開発",
+      "link": "https://www.lancers.jp/work/detail/5437096",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 113,
+      "scraped_at": "2025-11-19T06:35:10.017034"
+    },
+    {
+      "title": "【急募】Android用のライブ壁紙アプリ開発エンジニアを探しています!",
+      "link": "https://www.lancers.jp/work/detail/5436829",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-11-19T06:35:10.074343"
+    },
+    {
+      "title": "【急募】業務システムの要件定義と基本設計ができる方",
+      "link": "https://www.lancers.jp/work/detail/5437193",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2025-11-19T06:35:09.973905"
+    },
+    {
+      "title": "【急募】行政向けシステム保守・運用の専門家を募集!",
+      "link": "https://www.lancers.jp/work/detail/5437146",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2025-11-19T06:35:09.997526"
+    },
+    {
+      "title": "yahooプレイス用Worepressプラグイン 投稿記事をyahooプレイスのお知らせに要約投稿",
+      "link": "https://www.lancers.jp/work/detail/5436950",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-11-19T06:35:10.036752"
+    }
+  ]
+}
