@@ -1,0 +1,117 @@
+{
+  "timestamp": "2025-11-22T06:31:50.242227",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 2,
+    "AI": 1,
+    "Ai": 1,
+    "アプリ": 1,
+    "管理": 1,
+    "WordPress": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 1,
+    "multi_skill_match": 3,
+    "high_priority": 4,
+    "skill_match_rate": 75.0
+  },
+  "jobs": [
+    {
+      "title": "【技術者募集】家庭用消臭デバイス「Maneki Air」開発",
+      "link": "https://www.lancers.jp/work/detail/5439445",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 368,
+      "scraped_at": "2025-11-22T06:31:50.039671"
+    },
+    {
+      "title": "名刺/プロフィール共有アプリ開発",
+      "link": "https://www.lancers.jp/work/detail/5439373",
+      "price": "1,000 ~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 85,
+      "scraped_at": "2025-11-22T06:31:50.086496"
+    },
+    {
+      "title": "【緊急】海外からWordPress管理画面にログインできない問題の調査と修正",
+      "link": "https://www.lancers.jp/work/detail/5439402",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 50,
+      "scraped_at": "2025-11-22T06:31:50.020172"
+    },
+    {
+      "title": "【急募】ファン応援プラットフォームの構築をお手伝いください!",
+      "link": "https://www.lancers.jp/work/detail/5439395",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-11-22T06:31:50.065344"
+    }
+  ]
+}
