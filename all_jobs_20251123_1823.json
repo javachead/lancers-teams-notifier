@@ -1,0 +1,143 @@
+{
+  "timestamp": "2025-11-23T18:23:41.165223",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "管理": 2,
+    "開発": 2,
+    "自動化": 1,
+    "スクレイピング": 1,
+    "Java": 1,
+    "ツール": 1,
+    "WordPress": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 1,
+    "multi_skill_match": 4,
+    "high_priority": 5,
+    "skill_match_rate": 80.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】大規模データ収集自動化(スクレイピング・DB連携・エラー管理)案件",
+      "link": "https://www.lancers.jp/work/detail/5440052",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 158,
+      "scraped_at": "2025-11-23T18:23:40.996442"
+    },
+    {
+      "title": "【Java/対話システム/心理学実験】協同問題解決プラットフォームの改修開発",
+      "link": "https://www.lancers.jp/work/detail/5439921",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "priority": "高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 155,
+      "scraped_at": "2025-11-23T18:23:41.054820"
+    },
+    {
+      "title": "【急募】楽天市場の領収書一括ダウンロードツール開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5440010",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 120,
+      "scraped_at": "2025-11-23T18:23:41.036011"
+    },
+    {
+      "title": "【緊急】海外からWordPress管理画面にログインできない問題の調査と修正",
+      "link": "https://www.lancers.jp/work/detail/5439670",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 50,
+      "scraped_at": "2025-11-23T18:23:41.075817"
+    },
+    {
+      "title": "【急募】プログラム修正依頼!スキルを活かしてみませんか?",
+      "link": "https://www.lancers.jp/work/detail/5440002",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-11-23T18:23:41.015676"
+    }
+  ]
+}
