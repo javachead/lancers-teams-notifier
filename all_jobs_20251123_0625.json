@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-23T06:25:17.988423",
+  "count": 1,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "管理": 1,
+    "WordPress": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 1,
+    "no_skill_match": 0,
+    "multi_skill_match": 1,
+    "high_priority": 1,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "【緊急】海外からWordPress管理画面にログインできない問題の調査と修正",
+      "link": "https://www.lancers.jp/work/detail/5439670",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 50,
+      "scraped_at": "2025-11-23T06:25:17.947256"
+    }
+  ]
+}
