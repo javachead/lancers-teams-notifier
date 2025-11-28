@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-28T06:36:47.150456",
+  "count": 3,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "効率化": 1,
+    "自動化": 1,
+    "コンサル": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 3,
+    "no_skill_match": 1,
+    "multi_skill_match": 1,
+    "high_priority": 3,
+    "skill_match_rate": 66.7
+  },
+  "jobs": [
+    {
+      "title": "【自動化】エクセルデータ転記作業の効率化依頼",
+      "link": "https://www.lancers.jp/work/detail/5442971",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "効率化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 145,
+      "scraped_at": "2025-11-28T06:36:46.997634"
+    },
+    {
+      "title": "初回 2026年1月創業 コンサル会社のバックオフィス業務フロー設計・マニュアル化、IT導入 一括見積依頼",
+      "link": "https://www.lancers.jp/work/detail/5442904",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "コンサル",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 55,
+      "scraped_at": "2025-11-28T06:36:47.016516"
+    },
+    {
+      "title": "【急募】PSE認証代行をお手伝いしてくれる方募集!",
+      "link": "https://www.lancers.jp/work/detail/5443188",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-11-28T06:36:46.957658"
+    }
+  ]
+}
