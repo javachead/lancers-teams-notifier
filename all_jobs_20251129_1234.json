@@ -1,0 +1,138 @@
+{
+  "timestamp": "2025-11-29T12:34:15.294637",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 2,
+    "管理": 2,
+    "React": 1,
+    "TypeScript": 1,
+    "ツール": 1,
+    "サイト": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 1,
+    "multi_skill_match": 2,
+    "high_priority": 5,
+    "skill_match_rate": 80.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】フロントエンド開発者募集!React/TypeScriptでのシステム構築",
+      "link": "https://www.lancers.jp/work/detail/5443491",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "React",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 323,
+      "scraped_at": "2025-11-29T12:34:15.107504"
+    },
+    {
+      "title": "【急募】在庫・販売管理ツールの開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5443889",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 170,
+      "scraped_at": "2025-11-29T12:34:15.060495"
+    },
+    {
+      "title": "マンション管理組合のシステム設計構築依頼",
+      "link": "https://www.lancers.jp/work/detail/5443592",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 60,
+      "scraped_at": "2025-11-29T12:34:15.129359"
+    },
+    {
+      "title": "【Apache Answer構築】弁護士ドットコムのような専門家Q&Aサイトのサーバー構築・初期設定",
+      "link": "https://www.lancers.jp/work/detail/5443617",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 38,
+      "scraped_at": "2025-11-29T12:34:15.148754"
+    },
+    {
+      "title": "【急募】Wartalesの武器アイコンとモデルを日本刀に差し替え",
+      "link": "https://www.lancers.jp/work/detail/5443568",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-11-29T12:34:15.167857"
+    }
+  ]
+}
