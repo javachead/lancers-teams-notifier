@@ -1,0 +1,249 @@
+{
+  "timestamp": "2025-12-03T12:52:47.540608",
+  "count": 9,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 5,
+    "アプリ": 4,
+    "AI": 2,
+    "Ai": 2,
+    "システム開発": 2,
+    "Node.js": 1,
+    "PHP": 1,
+    "ツール": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 9,
+    "no_skill_match": 0,
+    "multi_skill_match": 6,
+    "high_priority": 9,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】LLMを活用した次世代AIエージェント開発プロジェクト",
+      "link": "https://www.lancers.jp/work/detail/5446583",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 375,
+      "scraped_at": "2025-12-03T12:52:47.231486"
+    },
+    {
+      "title": "【急募】Node.jsでのAIチャットサービスデプロイ基盤構築",
+      "link": "https://www.lancers.jp/work/detail/5446091",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Node.js",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 340,
+      "scraped_at": "2025-12-03T12:52:47.394401"
+    },
+    {
+      "title": "注目 【急募】PHP(v8) + Laravel(v12) での社内業務システム開発",
+      "link": "https://www.lancers.jp/work/detail/5446106",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "PHP",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 155,
+      "scraped_at": "2025-12-03T12:52:47.373620"
+    },
+    {
+      "title": "【急募】野球スコアボードシステム開発のフリーランス募集",
+      "link": "https://www.lancers.jp/work/detail/5446360",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 118,
+      "scraped_at": "2025-12-03T12:52:47.254852"
+    },
+    {
+      "title": "【急募】購入先自動振り分けとルート生成アプリ開発",
+      "link": "https://www.lancers.jp/work/detail/5446289",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-12-03T12:52:47.275051"
+    },
+    {
+      "title": "【急募】ECモール商品一括登録アプリ開発のプロを探しています!",
+      "link": "https://www.lancers.jp/work/detail/5446279",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-12-03T12:52:47.331902"
+    },
+    {
+      "title": "【急募】受注リストを購入先ごとにリスト化できるツールの作成!",
+      "link": "https://www.lancers.jp/work/detail/5446285",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 73,
+      "scraped_at": "2025-12-03T12:52:47.295876"
+    },
+    {
+      "title": "マッチングアプリ(Web)のPMできる方を募集します!",
+      "link": "https://www.lancers.jp/work/detail/5446673",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2025-12-03T12:52:47.209185"
+    },
+    {
+      "title": "【急募】LaravelとIonicで出入庫・検品アプリの保守依頼",
+      "link": "https://www.lancers.jp/work/detail/5446233",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2025-12-03T12:52:47.353090"
+    }
+  ]
+}
