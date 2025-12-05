@@ -1,0 +1,192 @@
+{
+  "timestamp": "2025-12-05T18:32:34.821366",
+  "count": 9,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 2,
+    "WordPress": 2,
+    "管理": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 9,
+    "no_skill_match": 5,
+    "multi_skill_match": 2,
+    "high_priority": 9,
+    "skill_match_rate": 44.4
+  },
+  "jobs": [
+    {
+      "title": "【IT導入補助金A類型】受注管理DX「パンダリンク」開発+店舗LP制作+顧客LINE構築の依頼",
+      "link": "https://www.lancers.jp/work/detail/5448148",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 100,
+      "scraped_at": "2025-12-05T18:32:34.509626"
+    },
+    {
+      "title": "webアプリの開発",
+      "link": "https://www.lancers.jp/work/detail/5437832",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 100,
+      "scraped_at": "2025-12-05T18:32:34.598707"
+    },
+    {
+      "title": "【急募】不動産向けWordPressとLINE統合の専門家を探しています!",
+      "link": "https://www.lancers.jp/work/detail/5448323",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 40,
+      "scraped_at": "2025-12-05T18:32:34.467360"
+    },
+    {
+      "title": "【急募】不動産向けWordPressとLINE統合の専門家を探しています!",
+      "link": "https://www.lancers.jp/work/detail/5448342",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "WordPress",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 40,
+      "scraped_at": "2025-12-05T18:32:34.487120"
+    },
+    {
+      "title": "Dify、RAGシステムの相談が可能な方を募集!疑問や課題を解決してくれる相談役【リモート作業OK】",
+      "link": "https://www.lancers.jp/work/detail/5447772",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 28,
+      "scraped_at": "2025-12-05T18:32:34.637806"
+    },
+    {
+      "title": "Accessシステムのバージョンup対応(Access2010→Access2021)",
+      "link": "https://www.lancers.jp/work/detail/5447970",
+      "price": "20,000 円 ~ 30,000 円 / 募集期間 2 日、取引期間 0 日",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-12-05T18:32:34.579445"
+    },
+    {
+      "title": "〖リモート可〗Delphiエンジニア募集",
+      "link": "https://www.lancers.jp/work/detail/5341051",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2025-12-05T18:32:34.617840"
+    },
+    {
+      "title": "Azure SQL Databaseの登録内容をHPに表示(絞り込み検索・フォームからDB登録)",
+      "link": "https://www.lancers.jp/work/detail/5447771",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-12-05T18:32:34.658434"
+    },
+    {
+      "title": "【急募】ドメインメールの設定サポートをお願いします",
+      "link": "https://www.lancers.jp/work/detail/5447991",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-12-05T18:32:34.549472"
+    }
+  ]
+}
