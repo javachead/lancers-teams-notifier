@@ -1,0 +1,127 @@
+{
+  "timestamp": "2025-12-06T06:25:54.401686",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "ツール": 2,
+    "開発": 2,
+    "自動化": 1,
+    "管理": 1,
+    "システム開発": 1,
+    "サイト": 1,
+    "PHP": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 0,
+    "multi_skill_match": 3,
+    "high_priority": 4,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "【自動化】Webサービス更新ツール開発(200アカウント管理)",
+      "link": "https://www.lancers.jp/work/detail/5448409",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 230,
+      "scraped_at": "2025-12-06T06:25:54.288390"
+    },
+    {
+      "title": "【急募】新規システム開発に伴う要件定義依頼",
+      "link": "https://www.lancers.jp/work/detail/5448563",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 110,
+      "scraped_at": "2025-12-06T06:25:54.202064"
+    },
+    {
+      "title": "【受注メールを元にECサイト自動仕入ツール】",
+      "link": "https://www.lancers.jp/work/detail/5448428",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 98,
+      "scraped_at": "2025-12-06T06:25:54.242066"
+    },
+    {
+      "title": "【緊急】既存コードの構造解析ができるPHPエンジニアを探しています",
+      "link": "https://www.lancers.jp/work/detail/5448440",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "PHP",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 33,
+      "scraped_at": "2025-12-06T06:25:54.262892"
+    }
+  ]
+}
