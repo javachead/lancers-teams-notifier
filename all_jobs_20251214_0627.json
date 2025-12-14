@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-12-14T06:27:09.549377",
+  "count": 1,
+  "type": "全案件リスト",
+  "skill_summary": {},
+  "skill_distribution": {
+    "total_jobs": 1,
+    "no_skill_match": 1,
+    "multi_skill_match": 0,
+    "high_priority": 1,
+    "skill_match_rate": 0.0
+  },
+  "jobs": [
+    {
+      "title": "注目 限定公開 PR 限定公開の仕事",
+      "link": "https://www.lancers.jp/work/detail/5450323",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2025-12-14T06:27:09.505644"
+    }
+  ]
+}
