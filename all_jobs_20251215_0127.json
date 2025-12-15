@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-12-15T01:27:04.514873",
+  "count": 1,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "ツール": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 1,
+    "no_skill_match": 0,
+    "multi_skill_match": 0,
+    "high_priority": 1,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "Base無在庫ツール作成 経験者のみ募集 実績提示をお願いします",
+      "link": "https://www.lancers.jp/work/detail/5453611",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 73,
+      "scraped_at": "2025-12-15T01:27:04.459074"
+    }
+  ]
+}
