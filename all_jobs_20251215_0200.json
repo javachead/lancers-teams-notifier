@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-12-15T02:00:19.710517",
+  "count": 3,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "AI": 1,
+    "Ai": 1,
+    "ツール": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 3,
+    "no_skill_match": 1,
+    "multi_skill_match": 1,
+    "high_priority": 3,
+    "skill_match_rate": 66.7
+  },
+  "jobs": [
+    {
+      "title": "【AIシステム構築】次のテストに向けた宿題自動出題システム",
+      "link": "https://www.lancers.jp/work/detail/5453785",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 318,
+      "scraped_at": "2025-12-15T02:00:19.599726"
+    },
+    {
+      "title": "Base無在庫ツール作成 経験者のみ募集 実績提示をお願いします",
+      "link": "https://www.lancers.jp/work/detail/5453611",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 73,
+      "scraped_at": "2025-12-15T02:00:19.638624"
+    },
+    {
+      "title": "【急募】ホームページとLPの改善をお手伝いします!",
+      "link": "https://www.lancers.jp/work/detail/5453763",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-12-15T02:00:19.619461"
+    }
+  ]
+}
