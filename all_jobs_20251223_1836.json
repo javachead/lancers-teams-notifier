@@ -1,0 +1,239 @@
+{
+  "timestamp": "2025-12-23T18:36:32.896151",
+  "count": 9,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 5,
+    "AI": 3,
+    "Ai": 3,
+    "アプリ": 2,
+    "Next.js": 1,
+    "Java": 1,
+    "自動化": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 9,
+    "no_skill_match": 1,
+    "multi_skill_match": 5,
+    "high_priority": 9,
+    "skill_match_rate": 88.9
+  },
+  "jobs": [
+    {
+      "title": "大手SIer等のAIソリューション開発・導入を支援してくださるエンジニア・PM募集",
+      "link": "https://www.lancers.jp/work/detail/5455098",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 375,
+      "scraped_at": "2025-12-23T18:36:32.573666"
+    },
+    {
+      "title": "法人向け生成AIサービス(RAG・議事録機能)の設計・開発を支援エンジニア募集(AI/バックエンド)",
+      "link": "https://www.lancers.jp/work/detail/5445159",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 368,
+      "scraped_at": "2025-12-23T18:36:32.610560"
+    },
+    {
+      "title": "B2B向け生成AIサービス(チャット・RAG)の新規開発プロジェクト推進を支援してくださるPM募集",
+      "link": "https://www.lancers.jp/work/detail/5445154",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 368,
+      "scraped_at": "2025-12-23T18:36:32.628625"
+    },
+    {
+      "title": "next.js環境下でstripe実装(オーソリ処理含む)の実装相談",
+      "link": "https://www.lancers.jp/work/detail/5459299",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Next.js",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 128,
+      "scraped_at": "2025-12-23T18:36:32.694603"
+    },
+    {
+      "title": "初回 【AWSクラウドリフト】業務アプリ移行支援エンジニア募集(Java / .NET)",
+      "link": "https://www.lancers.jp/work/detail/5459847",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "priority": "高優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 103,
+      "scraped_at": "2025-12-23T18:36:32.555051"
+    },
+    {
+      "title": "【急募】SNS技術検証アプリ開発",
+      "link": "https://www.lancers.jp/work/detail/5459200",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 93,
+      "scraped_at": "2025-12-23T18:36:32.676532"
+    },
+    {
+      "title": "【急募】n8nを使った請求書自動化プロジェクトの依頼",
+      "link": "https://www.lancers.jp/work/detail/5459128",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 88,
+      "scraped_at": "2025-12-23T18:36:32.733587"
+    },
+    {
+      "title": "【急募】女性顧客向けチャットボット開発のプロを探しています!",
+      "link": "https://www.lancers.jp/work/detail/5458992",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-12-23T18:36:32.767324"
+    },
+    {
+      "title": "【急募】お名前サーバでの504エラー調査を依頼します!",
+      "link": "https://www.lancers.jp/work/detail/5459456",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-12-23T18:36:32.647571"
+    }
+  ]
+}
