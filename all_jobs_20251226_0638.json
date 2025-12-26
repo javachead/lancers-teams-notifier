@@ -1,0 +1,64 @@
+{
+  "timestamp": "2025-12-26T06:38:24.838126",
+  "count": 2,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 2,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 2,
+    "no_skill_match": 0,
+    "multi_skill_match": 1,
+    "high_priority": 2,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】航空会社とお客様のマッチングサービスのアプリ開発",
+      "link": "https://www.lancers.jp/work/detail/5461280",
+      "price": "1,000 ~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 85,
+      "scraped_at": "2025-12-26T06:38:24.778796"
+    },
+    {
+      "title": "【急募】入札DXクラウドMVP開発者募集!",
+      "link": "https://www.lancers.jp/work/detail/5461481",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-12-26T06:38:24.759021"
+    }
+  ]
+}
