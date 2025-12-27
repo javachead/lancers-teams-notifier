@@ -1,0 +1,150 @@
+{
+  "timestamp": "2025-12-27T01:23:02.918754",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "AI": 3,
+    "Ai": 3,
+    "開発": 3,
+    "効率化": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 0,
+    "multi_skill_match": 4,
+    "high_priority": 5,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "大企業の業務効率化AIプロジェクトの技術方針策定を支援するAIテックリード募集",
+      "link": "https://www.lancers.jp/work/detail/5423720",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "効率化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 385,
+      "scraped_at": "2025-12-27T01:23:02.787772"
+    },
+    {
+      "title": "【急募】チャットボットAI型アフィリエイトシステムの開発者募集!",
+      "link": "https://www.lancers.jp/work/detail/5462048",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 383,
+      "scraped_at": "2025-12-27T01:23:02.749921"
+    },
+    {
+      "title": "AIについて1時間オンラインで教えて欲しい",
+      "link": "https://www.lancers.jp/work/detail/5461891",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 295,
+      "scraped_at": "2025-12-27T01:23:02.769007"
+    },
+    {
+      "title": "【急募】航空会社とお客様のマッチングサービスのアプリ開発",
+      "link": "https://www.lancers.jp/work/detail/5461280",
+      "price": "1,000 ~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 85,
+      "scraped_at": "2025-12-27T01:23:02.825783"
+    },
+    {
+      "title": "【急募】入札DXクラウドMVP開発者募集!",
+      "link": "https://www.lancers.jp/work/detail/5461481",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2025-12-27T01:23:02.806719"
+    }
+  ]
+}
