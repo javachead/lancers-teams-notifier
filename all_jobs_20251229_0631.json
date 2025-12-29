@@ -1,0 +1,102 @@
+{
+  "timestamp": "2025-12-29T06:31:38.242216",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "AI": 1,
+    "Ai": 1,
+    "開発": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 2,
+    "multi_skill_match": 2,
+    "high_priority": 4,
+    "skill_match_rate": 50.0
+  },
+  "jobs": [
+    {
+      "title": "大手製造業向け センサー画像解析・高画質化のR&Dを支援するAIエンジニア募集(画像生成/超解像)",
+      "link": "https://www.lancers.jp/work/detail/5427956",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 310,
+      "scraped_at": "2025-12-29T06:31:38.103488"
+    },
+    {
+      "title": "【Unity/XRエンジニア募集】製造業DX支援!既存システムと連携するXRアプリ開発",
+      "link": "https://www.lancers.jp/work/detail/5454210",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 108,
+      "scraped_at": "2025-12-29T06:31:38.122201"
+    },
+    {
+      "title": "【依頼内容|Googleスプレッドシート構築】",
+      "link": "https://www.lancers.jp/work/detail/5462891",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2025-12-29T06:31:38.141137"
+    },
+    {
+      "title": "【急募】VPS(Ubuntu)フロント・バック統合/Docker構築・移行",
+      "link": "https://www.lancers.jp/work/detail/5462712",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2025-12-29T06:31:38.159795"
+    }
+  ]
+}
