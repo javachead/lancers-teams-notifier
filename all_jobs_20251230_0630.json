@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-12-30T06:30:09.871676",
+  "count": 2,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "管理": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 2,
+    "no_skill_match": 0,
+    "multi_skill_match": 0,
+    "high_priority": 2,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】エクセルでの在庫管理システム構築依頼",
+      "link": "https://www.lancers.jp/work/detail/5463183",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2025-12-30T06:30:09.818413"
+    },
+    {
+      "title": "【急募】テレグラム風メッセージアプリのバグ修正と機能追加",
+      "link": "https://www.lancers.jp/work/detail/5463296",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 38,
+      "scraped_at": "2025-12-30T06:30:09.800345"
+    }
+  ]
+}
