@@ -1,0 +1,150 @@
+{
+  "timestamp": "2025-12-30T18:37:04.560980",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "AI": 3,
+    "開発": 3,
+    "Ai": 3,
+    "管理": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 0,
+    "multi_skill_match": 3,
+    "high_priority": 5,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "大手SIer等のAIソリューション開発・導入を支援してくださるエンジニア・PM募集",
+      "link": "https://www.lancers.jp/work/detail/5455098",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 375,
+      "scraped_at": "2025-12-30T18:37:04.335665"
+    },
+    {
+      "title": "法人向け生成AIサービス(RAG・議事録機能)の設計・開発を支援エンジニア募集(AI/バックエンド)",
+      "link": "https://www.lancers.jp/work/detail/5445159",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 368,
+      "scraped_at": "2025-12-30T18:37:04.394439"
+    },
+    {
+      "title": "B2B向け生成AIサービス(チャット・RAG)の新規開発プロジェクト推進を支援してくださるPM募集",
+      "link": "https://www.lancers.jp/work/detail/5445154",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 368,
+      "scraped_at": "2025-12-30T18:37:04.413700"
+    },
+    {
+      "title": "【急募】エクセルでの在庫管理システム構築依頼",
+      "link": "https://www.lancers.jp/work/detail/5463183",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2025-12-30T18:37:04.449797"
+    },
+    {
+      "title": "【急募】テレグラム風メッセージアプリのバグ修正と機能追加",
+      "link": "https://www.lancers.jp/work/detail/5463296",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 38,
+      "scraped_at": "2025-12-30T18:37:04.431812"
+    }
+  ]
+}
