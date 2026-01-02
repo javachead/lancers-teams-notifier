@@ -1,0 +1,113 @@
+{
+  "timestamp": "2026-01-02T06:39:52.469727",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "自動化": 2,
+    "効率化": 1,
+    "ツール": 1,
+    "サイト": 1,
+    "管理": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 0,
+    "multi_skill_match": 2,
+    "high_priority": 4,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "【介護業務効率化】研修事業の自動化を実現するプロ募集",
+      "link": "https://www.lancers.jp/work/detail/5464016",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "効率化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 153,
+      "scraped_at": "2026-01-02T06:39:52.347005"
+    },
+    {
+      "title": "複数WEBサイトへの日記一括投稿ツールの修正 or 新規作成をお願いしたいです",
+      "link": "https://www.lancers.jp/work/detail/5463948",
+      "price": "1,000 ~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 90,
+      "scraped_at": "2026-01-02T06:39:52.385276"
+    },
+    {
+      "title": "【報告書自動化】GASで効率的な作成フローを実現!",
+      "link": "https://www.lancers.jp/work/detail/5464025",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 80,
+      "scraped_at": "2026-01-02T06:39:52.327780"
+    },
+    {
+      "title": "進行管理およびチームディレクションを担当",
+      "link": "https://www.lancers.jp/work/detail/5418064",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2026-01-02T06:39:52.366065"
+    }
+  ]
+}
