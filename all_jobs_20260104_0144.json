@@ -1,0 +1,149 @@
+{
+  "timestamp": "2026-01-04T01:44:08.897896",
+  "count": 6,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "ツール": 3,
+    "開発": 2,
+    "社内ツール": 1,
+    "サイト": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 6,
+    "no_skill_match": 1,
+    "multi_skill_match": 2,
+    "high_priority": 6,
+    "skill_match_rate": 83.3
+  },
+  "jobs": [
+    {
+      "title": "【急募】ノーコードツール「bubble」でのメンテナンス依頼と次期開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5464287",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 135,
+      "scraped_at": "2026-01-04T01:44:08.687380"
+    },
+    {
+      "title": "Google Spread Sheetを用いた社内ツールの改修+α",
+      "link": "https://www.lancers.jp/work/detail/5464276",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "社内ツール",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 98,
+      "scraped_at": "2026-01-04T01:44:08.705015"
+    },
+    {
+      "title": "【外国人大歓迎】【急募】ECツールの保守・バグ修正・機能追加エンジニア募集",
+      "link": "https://www.lancers.jp/work/detail/5457026",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2026-01-04T01:44:08.722984"
+    },
+    {
+      "title": "【急募】Windows11対応ソフトウェア開発",
+      "link": "https://www.lancers.jp/work/detail/5464212",
+      "price": "1,000 ~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 60,
+      "scraped_at": "2026-01-04T01:44:08.753628"
+    },
+    {
+      "title": "ビジネスマッチングサイト構築・運用の依頼",
+      "link": "https://www.lancers.jp/work/detail/5464329",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2026-01-04T01:44:08.669299"
+    },
+    {
+      "title": "【急募】簡単なHP作成とAWS構築をしてくれる方募集",
+      "link": "https://www.lancers.jp/work/detail/5457524",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2026-01-04T01:44:08.607969"
+    }
+  ]
+}
