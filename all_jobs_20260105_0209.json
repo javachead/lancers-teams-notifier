@@ -1,0 +1,176 @@
+{
+  "timestamp": "2026-01-05T02:09:45.830264",
+  "count": 7,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "ツール": 2,
+    "AI": 1,
+    "開発": 1,
+    "Ai": 1,
+    "API": 1,
+    "bot": 1,
+    "アプリ": 1,
+    "管理": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 7,
+    "no_skill_match": 3,
+    "multi_skill_match": 4,
+    "high_priority": 7,
+    "skill_match_rate": 57.1
+  },
+  "jobs": [
+    {
+      "title": "【急募】医療診断AIの深層学習モデル開発の専門家募集",
+      "link": "https://www.lancers.jp/work/detail/5464587",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 375,
+      "scraped_at": "2026-01-05T02:09:45.692045"
+    },
+    {
+      "title": "【せどり×ツール製作】APIを使用したせどりツールを製作できるエンジニアさんを募集します♪",
+      "link": "https://www.lancers.jp/work/detail/5217096",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 243,
+      "scraped_at": "2026-01-05T02:09:45.710320"
+    },
+    {
+      "title": "【募集】RPAツール「RoboTANGO」設定代行の専門家を探しています",
+      "link": "https://www.lancers.jp/work/detail/5405023",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "bot",
+          "priority": "高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 178,
+      "scraped_at": "2026-01-05T02:09:45.635063"
+    },
+    {
+      "title": "【急募】kintone案件管理アプリにExcel見積計算式組込",
+      "link": "https://www.lancers.jp/work/detail/5464763",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 55,
+      "scraped_at": "2026-01-05T02:09:45.673807"
+    },
+    {
+      "title": "【急募】メール問い合わせ時の自動SMS送信システム構築",
+      "link": "https://www.lancers.jp/work/detail/5464796",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2026-01-05T02:09:45.654411"
+    },
+    {
+      "title": "金融機関の入出金伝票印刷システム構築依頼",
+      "link": "https://www.lancers.jp/work/detail/5464833",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 28,
+      "scraped_at": "2026-01-05T02:09:45.615859"
+    },
+    {
+      "title": "【急募】簡単なHP作成とAWS構築をしてくれる方募集",
+      "link": "https://www.lancers.jp/work/detail/5457524",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2026-01-05T02:09:45.727933"
+    }
+  ]
+}
