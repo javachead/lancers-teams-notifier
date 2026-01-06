@@ -1,0 +1,147 @@
+{
+  "timestamp": "2026-01-06T06:40:29.567118",
+  "count": 6,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "AI": 2,
+    "開発": 2,
+    "Ai": 2,
+    "サイト": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 6,
+    "no_skill_match": 3,
+    "multi_skill_match": 2,
+    "high_priority": 6,
+    "skill_match_rate": 50.0
+  },
+  "jobs": [
+    {
+      "title": "法人向け生成AIサービス(RAG・議事録機能)の設計・開発を支援エンジニア募集(AI/バックエンド)",
+      "link": "https://www.lancers.jp/work/detail/5445159",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 368,
+      "scraped_at": "2026-01-06T06:40:29.346946"
+    },
+    {
+      "title": "B2B向け生成AIサービス(チャット・RAG)の新規開発プロジェクト推進を支援してくださるPM募集",
+      "link": "https://www.lancers.jp/work/detail/5445154",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 368,
+      "scraped_at": "2026-01-06T06:40:29.367265"
+    },
+    {
+      "title": "初回 【急募】ECサイトの要件定義や基本設計ができる方を募集(1人月、フルリモート可、2025年12月〜)",
+      "link": "https://www.lancers.jp/work/detail/5425629",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2026-01-06T06:40:29.385820"
+    },
+    {
+      "title": "現行のシステムに追加要素",
+      "link": "https://www.lancers.jp/work/detail/5465878",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2026-01-06T06:40:29.404325"
+    },
+    {
+      "title": "《長期レギュラー》公的機関Web運用の要となる、ディレクター募集",
+      "link": "https://www.lancers.jp/work/detail/5465685",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2026-01-06T06:40:29.442595"
+    },
+    {
+      "title": "ActiveDirectoryの移行(フェーズ1)",
+      "link": "https://www.lancers.jp/work/detail/5465836",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2026-01-06T06:40:29.423498"
+    }
+  ]
+}
