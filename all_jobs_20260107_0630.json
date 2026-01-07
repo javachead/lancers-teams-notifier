@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-01-07T06:30:58.408962",
+  "count": 3,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 3,
+    "no_skill_match": 2,
+    "multi_skill_match": 0,
+    "high_priority": 3,
+    "skill_match_rate": 33.3
+  },
+  "jobs": [
+    {
+      "title": "Raspberry Piでの開発",
+      "link": "https://www.lancers.jp/work/detail/5466611",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2026-01-07T06:30:58.285253"
+    },
+    {
+      "title": "【急募】GBP一括投稿システムのインスタ連携改修依頼",
+      "link": "https://www.lancers.jp/work/detail/5466476",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2026-01-07T06:30:58.304521"
+    },
+    {
+      "title": "【長期/業務委託】UX改善をリードできるフロント寄り Laravel エンジニア募集(リモート可)",
+      "link": "https://www.lancers.jp/work/detail/5466459",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2026-01-07T06:30:58.336958"
+    }
+  ]
+}
