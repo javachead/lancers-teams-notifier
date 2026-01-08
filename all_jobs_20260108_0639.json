@@ -1,0 +1,114 @@
+{
+  "timestamp": "2026-01-08T06:39:45.858894",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 1,
+    "アプリ": 1,
+    "管理": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 2,
+    "multi_skill_match": 0,
+    "high_priority": 5,
+    "skill_match_rate": 60.0
+  },
+  "jobs": [
+    {
+      "title": "【法人歓迎】プローバステージ制御ソフト開発の見積依頼",
+      "link": "https://www.lancers.jp/work/detail/5467295",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2026-01-08T06:39:45.728608"
+    },
+    {
+      "title": "【急募】社内Webアプリの修正・再構築依頼",
+      "link": "https://www.lancers.jp/work/detail/5467384",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 33,
+      "scraped_at": "2026-01-08T06:39:45.684852"
+    },
+    {
+      "title": "進行管理およびチームディレクションを担当",
+      "link": "https://www.lancers.jp/work/detail/5418064",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2026-01-08T06:39:45.747992"
+    },
+    {
+      "title": "【急募】cloudflare導入の経験者を探しています!",
+      "link": "https://www.lancers.jp/work/detail/5467334",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2026-01-08T06:39:45.708763"
+    },
+    {
+      "title": "電気点火装置の回路図作成依頼",
+      "link": "https://www.lancers.jp/work/detail/5466994",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2026-01-08T06:39:45.766548"
+    }
+  ]
+}
