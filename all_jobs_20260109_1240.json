@@ -1,0 +1,193 @@
+{
+  "timestamp": "2026-01-09T12:40:16.159738",
+  "count": 7,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 5,
+    "ツール": 2,
+    "AI": 1,
+    "Ai": 1,
+    "システム開発": 1,
+    "自動化": 1,
+    "管理": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 7,
+    "no_skill_match": 2,
+    "multi_skill_match": 4,
+    "high_priority": 7,
+    "skill_match_rate": 71.4
+  },
+  "jobs": [
+    {
+      "title": "製造業向け図面自動生成システムの開発・ツール化を支援してくださるエンジニア募集(AI/バックエンド)",
+      "link": "https://www.lancers.jp/work/detail/5460562",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 435,
+      "scraped_at": "2026-01-09T12:40:15.967485"
+    },
+    {
+      "title": "施設管理・現場業務向け チェックリスト業務の自動化・報告書作成システム開発エンジニア募集",
+      "link": "https://www.lancers.jp/work/detail/5460563",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 220,
+      "scraped_at": "2026-01-09T12:40:15.943656"
+    },
+    {
+      "title": "初回 急募 自動カートインツール 開発のプロフェッショナルを探しています",
+      "link": "https://www.lancers.jp/work/detail/5467745",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 120,
+      "scraped_at": "2026-01-09T12:40:16.041480"
+    },
+    {
+      "title": "【緊急募集】動画解析アプリ開発のプロフェッショナル",
+      "link": "https://www.lancers.jp/work/detail/5467910",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 88,
+      "scraped_at": "2026-01-09T12:40:16.004467"
+    },
+    {
+      "title": "【急募】BtoB向け越境ECプラットフォーム開発のパートナー募集",
+      "link": "https://www.lancers.jp/work/detail/5468347",
+      "price": "3,000,000 円 ~ 5,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2026-01-09T12:40:15.924613"
+    },
+    {
+      "title": "【急募】大手保険システム会社でのPJ推進支援(PM・PL経験者募集/都内常駐)",
+      "link": "https://www.lancers.jp/work/detail/5467981",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 40,
+      "scraped_at": "2026-01-09T12:40:15.986408"
+    },
+    {
+      "title": "限定公開 限定公開の仕事",
+      "link": "https://www.lancers.jp/work/detail/5467882",
+      "price": "5,000,000 円 ~ / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2026-01-09T12:40:16.022810"
+    }
+  ]
+}
