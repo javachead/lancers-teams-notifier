@@ -1,0 +1,101 @@
+{
+  "timestamp": "2026-01-09T06:30:45.382310",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 2,
+    "ツール": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 2,
+    "multi_skill_match": 2,
+    "high_priority": 4,
+    "skill_match_rate": 50.0
+  },
+  "jobs": [
+    {
+      "title": "初回 急募 自動カートインツール 開発のプロフェッショナルを探しています",
+      "link": "https://www.lancers.jp/work/detail/5467745",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 120,
+      "scraped_at": "2026-01-09T06:30:45.309638"
+    },
+    {
+      "title": "【緊急募集】動画解析アプリ開発のプロフェッショナル",
+      "link": "https://www.lancers.jp/work/detail/5467910",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 88,
+      "scraped_at": "2026-01-09T06:30:45.271165"
+    },
+    {
+      "title": "【急募】大手保険システム会社でのPJ推進支援(PM・PL経験者募集/都内常駐)",
+      "link": "https://www.lancers.jp/work/detail/5467981",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 40,
+      "scraped_at": "2026-01-09T06:30:45.252035"
+    },
+    {
+      "title": "限定公開 限定公開の仕事",
+      "link": "https://www.lancers.jp/work/detail/5467882",
+      "price": "5,000,000 円 ~ / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2026-01-09T06:30:45.290150"
+    }
+  ]
+}
