@@ -1,0 +1,343 @@
+{
+  "timestamp": "2026-01-13T01:23:58.264600",
+  "count": 13,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 5,
+    "AI": 4,
+    "Ai": 4,
+    "API": 2,
+    "アプリ": 2,
+    "効率化": 1,
+    "ツール": 1,
+    "自動化": 1,
+    "Python": 1,
+    "スクレイピング": 1,
+    "管理": 1,
+    "Java": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 13,
+    "no_skill_match": 2,
+    "multi_skill_match": 9,
+    "high_priority": 13,
+    "skill_match_rate": 84.6
+  },
+  "jobs": [
+    {
+      "title": "大企業の業務効率化AIプロジェクトの技術方針策定を支援するAIテックリード募集",
+      "link": "https://www.lancers.jp/work/detail/5423720",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "効率化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 385,
+      "scraped_at": "2026-01-13T01:23:58.070805"
+    },
+    {
+      "title": "建設・土木業界向け施工機械のAI自動制御・アタッチメント開発を支援してくださるエンジニア募集",
+      "link": "https://www.lancers.jp/work/detail/5434128",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 368,
+      "scraped_at": "2026-01-13T01:23:57.923011"
+    },
+    {
+      "title": "大手製造業向け センサー画像解析・高画質化のR&Dを支援するAIエンジニア募集(画像生成/超解像)",
+      "link": "https://www.lancers.jp/work/detail/5427956",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 310,
+      "scraped_at": "2026-01-13T01:23:57.941489"
+    },
+    {
+      "title": "Shopee APIを使用した「商品動画の一括紐付けツール」の開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5469483",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 305,
+      "scraped_at": "2026-01-13T01:23:57.995919"
+    },
+    {
+      "title": "【急募】製造業向け「製造副産物」の状態(硬度)判定AIのフィジビリティ検証(画像認識/動画解析)",
+      "link": "https://www.lancers.jp/work/detail/5439158",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 303,
+      "scraped_at": "2026-01-13T01:23:57.903886"
+    },
+    {
+      "title": "【Zapier設定のみ!作業時間~1時間】スプレッドシート・Gドライブ自動化構築(設計済)",
+      "link": "https://www.lancers.jp/work/detail/5469379",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 255,
+      "scraped_at": "2026-01-13T01:23:58.089151"
+    },
+    {
+      "title": "【募集】Python / Docker 日次データ スクレイピングシステム構築",
+      "link": "https://www.lancers.jp/work/detail/5469627",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 248,
+      "scraped_at": "2026-01-13T01:23:57.877299"
+    },
+    {
+      "title": "【フルリモート可】Webアプリ開発経験者募集!経営管理システムの開発",
+      "link": "https://www.lancers.jp/work/detail/5469430",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 150,
+      "scraped_at": "2026-01-13T01:23:58.053036"
+    },
+    {
+      "title": "【Unity/XRエンジニア募集】製造業DX支援!既存システムと連携するXRアプリ開発",
+      "link": "https://www.lancers.jp/work/detail/5454210",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 108,
+      "scraped_at": "2026-01-13T01:23:57.962647"
+    },
+    {
+      "title": "【未経験相談可能】JavaまたはJavascriptエンジニアを募集!",
+      "link": "https://www.lancers.jp/work/detail/5469522",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "priority": "高優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 85,
+      "scraped_at": "2026-01-13T01:23:58.034601"
+    },
+    {
+      "title": "GoogleCloudを利用したアジャイル開発共通基盤のSREエンジニアの募集",
+      "link": "https://www.lancers.jp/work/detail/5457458",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2026-01-13T01:23:57.856353"
+    },
+    {
+      "title": "フロント実装済み!音楽権利マーケットプレイス「HITOON」のバックエンド・決済機能実装",
+      "link": "https://www.lancers.jp/work/detail/5469298",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2026-01-13T01:23:58.107627"
+    },
+    {
+      "title": "【急募】Microsoft Accessで物流納品先別仕分けリスト作成",
+      "link": "https://www.lancers.jp/work/detail/5469531",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-01-13T01:23:58.015663"
+    }
+  ]
+}
