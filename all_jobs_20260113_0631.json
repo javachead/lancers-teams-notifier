@@ -1,0 +1,171 @@
+{
+  "timestamp": "2026-01-13T06:31:06.768061",
+  "count": 7,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 4,
+    "Python": 1,
+    "スクレイピング": 1,
+    "ツール": 1,
+    "サイト": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 7,
+    "no_skill_match": 1,
+    "multi_skill_match": 2,
+    "high_priority": 7,
+    "skill_match_rate": 85.7
+  },
+  "jobs": [
+    {
+      "title": "【募集】Python / Docker 日次データ スクレイピングシステム構築",
+      "link": "https://www.lancers.jp/work/detail/5469627",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 248,
+      "scraped_at": "2026-01-13T06:31:06.661325"
+    },
+    {
+      "title": "【急募】FXツール開発のプロフェッショナルを探しています!",
+      "link": "https://www.lancers.jp/work/detail/5470011",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 123,
+      "scraped_at": "2026-01-13T06:31:06.532665"
+    },
+    {
+      "title": "自社システムの開発・保守エンジニア募集★☆カメラ面談あり",
+      "link": "https://www.lancers.jp/work/detail/5469878",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2026-01-13T06:31:06.552244"
+    },
+    {
+      "title": "初回 東京スポーツ施設の空きテニスコートを自動予約してくれるシステムの開発",
+      "link": "https://www.lancers.jp/work/detail/5469843",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2026-01-13T06:31:06.572005"
+    },
+    {
+      "title": "GoogleCloudを利用したアジャイル開発共通基盤のSREエンジニアの募集",
+      "link": "https://www.lancers.jp/work/detail/5457458",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2026-01-13T06:31:06.628507"
+    },
+    {
+      "title": "【緊急】AWS上の稼働中Webサイトを最新GitHubに再構築",
+      "link": "https://www.lancers.jp/work/detail/5469840",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2026-01-13T06:31:06.590839"
+    },
+    {
+      "title": "n8n 初期構築・セットアップ(小規模/検証用途)",
+      "link": "https://www.lancers.jp/work/detail/5469826",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-01-13T06:31:06.609620"
+    }
+  ]
+}
