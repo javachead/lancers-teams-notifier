@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-01-14T06:40:02.838586",
+  "count": 6,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "AI": 1,
+    "Ai": 1,
+    "管理": 1,
+    "PHP": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 6,
+    "no_skill_match": 3,
+    "multi_skill_match": 1,
+    "high_priority": 6,
+    "skill_match_rate": 50.0
+  },
+  "jobs": [
+    {
+      "title": "AI企画書作成システムの「見積書作成」をご支援いただける制作会社/エンジニア募集(発注確約なし)",
+      "link": "https://www.lancers.jp/work/detail/5470737",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 313,
+      "scraped_at": "2026-01-14T06:40:02.626626"
+    },
+    {
+      "title": "進行管理およびチームディレクションを担当",
+      "link": "https://www.lancers.jp/work/detail/5418064",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2026-01-14T06:40:02.684799"
+    },
+    {
+      "title": "Rubyの暗号化機能のPHP化",
+      "link": "https://www.lancers.jp/work/detail/5470623",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "PHP",
+          "priority": "最低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 28,
+      "scraped_at": "2026-01-14T06:40:02.665386"
+    },
+    {
+      "title": "金融機関の入出金伝票印刷システム構築依頼",
+      "link": "https://www.lancers.jp/work/detail/5470403",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 28,
+      "scraped_at": "2026-01-14T06:40:02.722092"
+    },
+    {
+      "title": "《長期レギュラー》公的機関Web運用の要となる、ディレクター募集",
+      "link": "https://www.lancers.jp/work/detail/5470150",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2026-01-14T06:40:02.703514"
+    },
+    {
+      "title": "【フリーランス必見】エンジニア支援サービスのご紹介!",
+      "link": "https://www.lancers.jp/work/detail/5470726",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-01-14T06:40:02.645869"
+    }
+  ]
+}
