@@ -1,0 +1,113 @@
+{
+  "timestamp": "2026-01-16T02:01:50.973835",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "AI": 1,
+    "Ai": 1,
+    "Python": 1,
+    "スクレイピング": 1,
+    "bot": 1,
+    "ツール": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 1,
+    "multi_skill_match": 3,
+    "high_priority": 4,
+    "skill_match_rate": 75.0
+  },
+  "jobs": [
+    {
+      "title": "【長期案件】生成AIを利用したチャットボット作成のPMOを募集",
+      "link": "https://www.lancers.jp/work/detail/5471035",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 310,
+      "scraped_at": "2026-01-16T02:01:50.891323"
+    },
+    {
+      "title": "【募集】Python / Docker 日次データ スクレイピングシステム構築",
+      "link": "https://www.lancers.jp/work/detail/5469627",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 248,
+      "scraped_at": "2026-01-16T02:01:50.834774"
+    },
+    {
+      "title": "【募集】RPAツール「RoboTANGO」設定代行の専門家を探しています",
+      "link": "https://www.lancers.jp/work/detail/5405023",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "bot",
+          "priority": "高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 178,
+      "scraped_at": "2026-01-16T02:01:50.853818"
+    },
+    {
+      "title": "【急募】GASプロジェクトの作成依頼",
+      "link": "https://www.lancers.jp/work/detail/5471552",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2026-01-16T02:01:50.872638"
+    }
+  ]
+}
