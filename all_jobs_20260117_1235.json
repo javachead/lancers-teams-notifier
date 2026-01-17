@@ -1,0 +1,241 @@
+{
+  "timestamp": "2026-01-17T12:35:59.312683",
+  "count": 8,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 5,
+    "ツール": 3,
+    "AI": 2,
+    "管理": 2,
+    "Ai": 2,
+    "Next.js": 2,
+    "アプリ": 2,
+    "API": 1,
+    "システム開発": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 8,
+    "no_skill_match": 0,
+    "multi_skill_match": 8,
+    "high_priority": 8,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】airtableで社内業務管理システムを共に構築してくれる方",
+      "link": "https://www.lancers.jp/work/detail/5473383",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 353,
+      "scraped_at": "2026-01-17T12:35:59.087565"
+    },
+    {
+      "title": "【シンプル版】生成AIデジタル・コミュニティ制作の依頼",
+      "link": "https://www.lancers.jp/work/detail/5469128",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 310,
+      "scraped_at": "2026-01-17T12:35:59.031887"
+    },
+    {
+      "title": "【せどり×ツール製作】APIを使用したせどりツールを製作できるエンジニアさんを募集します♪",
+      "link": "https://www.lancers.jp/work/detail/5217096",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 243,
+      "scraped_at": "2026-01-17T12:35:59.106045"
+    },
+    {
+      "title": "※急募:Next.jsによる業務アプリの開発(+Flutter)",
+      "link": "https://www.lancers.jp/work/detail/5473147",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Next.js",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 225,
+      "scraped_at": "2026-01-17T12:35:59.157788"
+    },
+    {
+      "title": "※急募:Flutterによる業務アプリの開発(+next.js)",
+      "link": "https://www.lancers.jp/work/detail/5473146",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Next.js",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 218,
+      "scraped_at": "2026-01-17T12:35:59.128795"
+    },
+    {
+      "title": "【急募】Accessでの受発注管理・請求書発行システム開発",
+      "link": "https://www.lancers.jp/work/detail/5473234",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 148,
+      "scraped_at": "2026-01-17T12:35:59.193095"
+    },
+    {
+      "title": "【バイナリ解析 / 逆コンパイル】EPCデータ解析ツール開発",
+      "link": "https://www.lancers.jp/work/detail/5473394",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 135,
+      "scraped_at": "2026-01-17T12:35:59.050913"
+    },
+    {
+      "title": "【バイナリ解析 / 逆コンパイル】EPCデータ解析ツール開発",
+      "link": "https://www.lancers.jp/work/detail/5473181",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 135,
+      "scraped_at": "2026-01-17T12:35:59.175543"
+    }
+  ]
+}
