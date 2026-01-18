@@ -1,0 +1,69 @@
+{
+  "timestamp": "2026-01-18T06:36:45.973144",
+  "count": 2,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 2,
+    "AI": 1,
+    "Ai": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 2,
+    "no_skill_match": 0,
+    "multi_skill_match": 1,
+    "high_priority": 2,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "製造業向け設備要件定義書の自動生成AIシステムの開発・DB設計支援エンジニア(AI/バックエンド)",
+      "link": "https://www.lancers.jp/work/detail/5473648",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 390,
+      "scraped_at": "2026-01-18T06:36:45.892039"
+    },
+    {
+      "title": "製造業DXプロダクト開発のプロダクトマネージャー募集",
+      "link": "https://www.lancers.jp/work/detail/5468432",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2026-01-18T06:36:45.911558"
+    }
+  ]
+}
