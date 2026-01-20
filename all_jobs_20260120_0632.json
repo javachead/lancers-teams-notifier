@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-01-20T06:32:45.458439",
+  "count": 2,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 2,
+    "no_skill_match": 1,
+    "multi_skill_match": 0,
+    "high_priority": 2,
+    "skill_match_rate": 50.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】業務システムの開発・運用・保守エンジニア募集(フロントエンド/バックエンド)",
+      "link": "https://www.lancers.jp/work/detail/5474899",
+      "price": "1,000 ~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2026-01-20T06:32:45.335354"
+    },
+    {
+      "title": "Google clab用マークシートCSV出力プログラム作成依頼",
+      "link": "https://www.lancers.jp/work/detail/5474679",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-01-20T06:32:45.379528"
+    }
+  ]
+}
