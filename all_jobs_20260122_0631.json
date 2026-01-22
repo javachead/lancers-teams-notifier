@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-01-22T06:31:53.642650",
+  "count": 3,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "MySQL": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 3,
+    "no_skill_match": 2,
+    "multi_skill_match": 0,
+    "high_priority": 3,
+    "skill_match_rate": 33.3
+  },
+  "jobs": [
+    {
+      "title": "【急募】MySQL/MariaDBを活用したデータベース設計・運用の依頼",
+      "link": "https://www.lancers.jp/work/detail/5476347",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "MySQL",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 33,
+      "scraped_at": "2026-01-22T06:31:53.591766"
+    },
+    {
+      "title": "【長期案件】配送システム改修・AzureからAWS移行",
+      "link": "https://www.lancers.jp/work/detail/5476708",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 40,
+      "scraped_at": "2026-01-22T06:31:53.553803"
+    },
+    {
+      "title": "急募 限定公開 限定公開の仕事",
+      "link": "https://www.lancers.jp/work/detail/5476581",
+      "price": "50,000 円 ~ 60,000 円 / 募集期間 1 日、取引期間 0 日",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 13,
+      "scraped_at": "2026-01-22T06:31:53.572750"
+    }
+  ]
+}
