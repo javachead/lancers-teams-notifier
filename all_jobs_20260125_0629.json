@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-01-25T06:29:08.448844",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 4,
+    "API": 1,
+    "ツール": 1,
+    "AI": 1,
+    "Ai": 1,
+    "アプリ": 1,
+    "管理": 1,
+    "システム開発": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 0,
+    "multi_skill_match": 4,
+    "high_priority": 5,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "【Power Platform】請求書自動作成ツール開発(Automate / 外部API連携)",
+      "link": "https://www.lancers.jp/work/detail/5478394",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 320,
+      "scraped_at": "2026-01-25T06:29:08.238792"
+    },
+    {
+      "title": "【初心者・未経験OK】 AIを学びながら在宅で働くお仕事|月15〜20万円可能|スマホOK",
+      "link": "https://www.lancers.jp/work/detail/5478263",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 303,
+      "scraped_at": "2026-01-25T06:29:08.295857"
+    },
+    {
+      "title": "「飲み会調整・店舗共有・終電管理・近距離マッチングを備えた飲み会支援アプリの開発依頼」",
+      "link": "https://www.lancers.jp/work/detail/5478300",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 135,
+      "scraped_at": "2026-01-25T06:29:08.332317"
+    },
+    {
+      "title": "【Power Platform】外部業者連携システム開発(Apps / Automate)",
+      "link": "https://www.lancers.jp/work/detail/5478393",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 125,
+      "scraped_at": "2026-01-25T06:29:08.258040"
+    },
+    {
+      "title": "【Dify】LLMワークフロー開発パートナー募集 / 時間単価制",
+      "link": "https://www.lancers.jp/work/detail/5478398",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2026-01-25T06:29:08.277235"
+    }
+  ]
+}
