@@ -1,0 +1,190 @@
+{
+  "timestamp": "2026-01-29T13:05:57.027802",
+  "count": 8,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 4,
+    "アプリ": 2,
+    "業務改善": 1,
+    "システム開発": 1,
+    "サイト": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 8,
+    "no_skill_match": 3,
+    "multi_skill_match": 3,
+    "high_priority": 8,
+    "skill_match_rate": 62.5
+  },
+  "jobs": [
+    {
+      "title": "【医療機関向け業務改善サービスの新規開発】WEBアプリ開発におけるフルスタック開発担当者募集",
+      "link": "https://www.lancers.jp/work/detail/5473940",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "業務改善",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 135,
+      "scraped_at": "2026-01-29T13:05:56.860005"
+    },
+    {
+      "title": "【新規サービス】無人機器と決済連携のシステム開発相談",
+      "link": "https://www.lancers.jp/work/detail/5481801",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 125,
+      "scraped_at": "2026-01-29T13:05:56.750387"
+    },
+    {
+      "title": "【急募】iPadアプリ開発のプロフェッショナルを探しています",
+      "link": "https://www.lancers.jp/work/detail/5481843",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 100,
+      "scraped_at": "2026-01-29T13:05:56.730941"
+    },
+    {
+      "title": "【フルリモート】セールスフォース開発案件の設計〜実装",
+      "link": "https://www.lancers.jp/work/detail/5481435",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2026-01-29T13:05:56.807545"
+    },
+    {
+      "title": "【長期・フルリモート】Webサイト修正業務(Git使用/Cursor環境)|安定稼働できる方歓迎",
+      "link": "https://www.lancers.jp/work/detail/5481153",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 45,
+      "scraped_at": "2026-01-29T13:05:56.884055"
+    },
+    {
+      "title": "【ストレスチェックシステム】運用コスト削減と個人情報保護",
+      "link": "https://www.lancers.jp/work/detail/5481296",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2026-01-29T13:05:56.827295"
+    },
+    {
+      "title": "【短期/読み取り専用】既存システムに触れない行動ログ基盤の構築(Fintech系)",
+      "link": "https://www.lancers.jp/work/detail/5481091",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 33,
+      "scraped_at": "2026-01-29T13:05:56.901815"
+    },
+    {
+      "title": "【急募】BOX内ファイルURLをkintoneに同期するGASプログラム作成",
+      "link": "https://www.lancers.jp/work/detail/5481757",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-01-29T13:05:56.770621"
+    }
+  ]
+}
