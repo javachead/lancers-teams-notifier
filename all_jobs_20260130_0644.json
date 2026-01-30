@@ -1,0 +1,113 @@
+{
+  "timestamp": "2026-01-30T06:44:14.702069",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "管理": 2,
+    "Java": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 2,
+    "multi_skill_match": 0,
+    "high_priority": 5,
+    "skill_match_rate": 60.0
+  },
+  "jobs": [
+    {
+      "title": "【Java経験者】4月開始/与野 官公庁向けマイグレーション案件",
+      "link": "https://www.lancers.jp/work/detail/5482097",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Java",
+          "priority": "高優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 85,
+      "scraped_at": "2026-01-30T06:44:14.497953"
+    },
+    {
+      "title": "WEBサーバーの管理、トラブル解決対応できる方を募集します!",
+      "link": "https://www.lancers.jp/work/detail/5481859",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 33,
+      "scraped_at": "2026-01-30T06:44:14.544006"
+    },
+    {
+      "title": "進行管理およびチームディレクションを担当",
+      "link": "https://www.lancers.jp/work/detail/5418064",
+      "price": "~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2026-01-30T06:44:14.582944"
+    },
+    {
+      "title": "【高スキル】Web3.0系プロダクトの上級エンジニア募集",
+      "link": "https://www.lancers.jp/work/detail/5481715",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2026-01-30T06:44:14.518559"
+    },
+    {
+      "title": "無人美容什器[ 決済 × IoT 連携の設計サポート ](※実装なし/スポット)",
+      "link": "https://www.lancers.jp/work/detail/5481888",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2026-01-30T06:44:14.563947"
+    }
+  ]
+}
