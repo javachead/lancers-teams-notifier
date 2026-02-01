@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-02-01T06:45:36.103747",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 4,
+    "AI": 1,
+    "Ai": 1,
+    "システム開発": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 0,
+    "multi_skill_match": 2,
+    "high_priority": 4,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "【時給3000~4000円以上/フルリモート】AI駆動開発でのSaaS開発の開発パートナー",
+      "link": "https://www.lancers.jp/work/detail/5483313",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 368,
+      "scraped_at": "2026-02-01T06:45:35.973286"
+    },
+    {
+      "title": "本人顔ベースのリアルタイム顔変換システム開発",
+      "link": "https://www.lancers.jp/work/detail/5483207",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 125,
+      "scraped_at": "2026-02-01T06:45:35.954013"
+    },
+    {
+      "title": "【PM/フルスタックエンジニア】新規SaaS開発のパートナー募集",
+      "link": "https://www.lancers.jp/work/detail/5483306",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 75,
+      "scraped_at": "2026-02-01T06:45:36.015168"
+    },
+    {
+      "title": "カフェ掲載プラットフォーム「チャヤドコ」開発(要件定義~ベータ版リリース)",
+      "link": "https://www.lancers.jp/work/detail/5483311",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2026-02-01T06:45:35.996898"
+    }
+  ]
+}
