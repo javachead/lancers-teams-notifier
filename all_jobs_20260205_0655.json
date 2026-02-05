@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-02-05T06:55:59.536383",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "ツール": 3,
+    "開発": 2,
+    "Python": 1,
+    "API": 1,
+    "AI": 1,
+    "Ai": 1,
+    "スクレイピング": 1,
+    "アプリ": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 0,
+    "multi_skill_match": 4,
+    "high_priority": 5,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "Amazonから情報取得するツール作ってください。SP-API有 Python希望",
+      "link": "https://www.lancers.jp/work/detail/5486242",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "Python",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 435,
+      "scraped_at": "2026-02-05T06:55:59.294160"
+    },
+    {
+      "title": "SaaSビジネスにおける「バーティカル(垂直型)」展開の横スライド可能なAIシステムの開発です",
+      "link": "https://www.lancers.jp/work/detail/5485911",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 383,
+      "scraped_at": "2026-02-05T06:55:59.369470"
+    },
+    {
+      "title": "【急募】クリックポスト自動発行ツール開発依頼",
+      "link": "https://www.lancers.jp/work/detail/5485895",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 123,
+      "scraped_at": "2026-02-05T06:55:59.392010"
+    },
+    {
+      "title": "【Excelでのマクロ作成】リサーチツールの作成【スクレイピング】",
+      "link": "https://www.lancers.jp/work/detail/5486225",
+      "price": "1,000 ~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 100,
+      "scraped_at": "2026-02-05T06:55:59.313369"
+    },
+    {
+      "title": "【急募】iOS/AndroidアプリのSkyWay切替対応エンジニア募集",
+      "link": "https://www.lancers.jp/work/detail/5486110",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "アプリ",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 38,
+      "scraped_at": "2026-02-05T06:55:59.350104"
+    }
+  ]
+}
