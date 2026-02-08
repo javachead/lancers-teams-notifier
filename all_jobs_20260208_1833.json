@@ -1,0 +1,137 @@
+{
+  "timestamp": "2026-02-08T18:33:28.620712",
+  "count": 5,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 3,
+    "サイト": 2,
+    "AI": 1,
+    "Ai": 1,
+    "ツール": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 5,
+    "no_skill_match": 1,
+    "multi_skill_match": 2,
+    "high_priority": 5,
+    "skill_match_rate": 80.0
+  },
+  "jobs": [
+    {
+      "title": "【有名恋愛MBTI診断サイト】を開発をした会社で、恋愛特化型AIチャットボットの開発者を募っています",
+      "link": "https://www.lancers.jp/work/detail/5487791",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 385,
+      "scraped_at": "2026-02-08T18:33:28.488870"
+    },
+    {
+      "title": "初回 不動産業向け:レインズ等からの物件情報収集および社内ソフトへの自動入力ツール開発",
+      "link": "https://www.lancers.jp/work/detail/5487945",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 135,
+      "scraped_at": "2026-02-08T18:33:28.413597"
+    },
+    {
+      "title": "【時給2,000円〜】フルスタックエンジニア募集|個人向けWebサービスの開発・保守・運用",
+      "link": "https://www.lancers.jp/work/detail/5487838",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2026-02-08T18:33:28.452061"
+    },
+    {
+      "title": "bubbleで構築したサイトの修正対応",
+      "link": "https://www.lancers.jp/work/detail/5487908",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2026-02-08T18:33:28.432658"
+    },
+    {
+      "title": "BigQuery+Looker Studioによる不動産マーケ分析ダッシュボード構築",
+      "link": "https://www.lancers.jp/work/detail/5487828",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2026-02-08T18:33:28.470363"
+    }
+  ]
+}
