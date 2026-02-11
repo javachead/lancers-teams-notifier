@@ -1,0 +1,215 @@
+{
+  "timestamp": "2026-02-11T07:06:45.532934",
+  "count": 8,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "AI": 4,
+    "開発": 4,
+    "Ai": 4,
+    "ツール": 2,
+    "API": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 8,
+    "no_skill_match": 2,
+    "multi_skill_match": 6,
+    "high_priority": 8,
+    "skill_match_rate": 75.0
+  },
+  "jobs": [
+    {
+      "title": "大手SIer等のAIソリューション開発・導入を支援してくださるエンジニア・PM募集",
+      "link": "https://www.lancers.jp/work/detail/5455098",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 375,
+      "scraped_at": "2026-02-11T07:06:45.239707"
+    },
+    {
+      "title": "法人向け生成AIサービス(RAG・議事録機能)の設計・開発を支援エンジニア募集(AI/バックエンド)",
+      "link": "https://www.lancers.jp/work/detail/5445159",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 368,
+      "scraped_at": "2026-02-11T07:06:45.283113"
+    },
+    {
+      "title": "B2B向け生成AIサービス(チャット・RAG)の新規開発プロジェクト推進を支援してくださるPM募集",
+      "link": "https://www.lancers.jp/work/detail/5445154",
+      "price": "200,000 円 ~ 300,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 368,
+      "scraped_at": "2026-02-11T07:06:45.301446"
+    },
+    {
+      "title": "【AWS/AI】AWS構築の相談「自律型デジタルツイン」およびナレッジ共有基盤の構築",
+      "link": "https://www.lancers.jp/work/detail/5489818",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 303,
+      "scraped_at": "2026-02-11T07:06:45.322531"
+    },
+    {
+      "title": "Amazon SP-APIからGoogleスプレッドシートへのデータ自動連携・集計ツール構築",
+      "link": "https://www.lancers.jp/work/detail/5489711",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 248,
+      "scraped_at": "2026-02-11T07:06:45.342408"
+    },
+    {
+      "title": "【BUYMA】商品リスト取得ツールと自動出品ツール開発のご依頼",
+      "link": "https://www.lancers.jp/work/detail/5489608",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 123,
+      "scraped_at": "2026-02-11T07:06:45.417473"
+    },
+    {
+      "title": "【急募】ドメイン接続業務の専門家を探しています!",
+      "link": "https://www.lancers.jp/work/detail/5489674",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 18,
+      "scraped_at": "2026-02-11T07:06:45.375090"
+    },
+    {
+      "title": "【急募】google work space の設定を専門家に依頼したい",
+      "link": "https://www.lancers.jp/work/detail/5489636",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-02-11T07:06:45.397898"
+    }
+  ]
+}
