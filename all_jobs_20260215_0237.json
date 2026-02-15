@@ -1,0 +1,215 @@
+{
+  "timestamp": "2026-02-15T02:37:59.738302",
+  "count": 10,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "スクレイピング": 2,
+    "サイト": 2,
+    "AI": 1,
+    "Ai": 1,
+    "コンサル": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 10,
+    "no_skill_match": 4,
+    "multi_skill_match": 1,
+    "high_priority": 10,
+    "skill_match_rate": 60.0
+  },
+  "jobs": [
+    {
+      "title": "AIで精度の高い予想モデルやシステムを作って欲しいです。",
+      "link": "https://www.lancers.jp/work/detail/5491912",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 318,
+      "scraped_at": "2026-02-15T02:37:59.453981"
+    },
+    {
+      "title": "【急募】Salesforce 認定 Service Cloud コンサルタントを探しています!",
+      "link": "https://www.lancers.jp/work/detail/5492003",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "コンサル",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 43,
+      "scraped_at": "2026-02-15T02:37:59.393358"
+    },
+    {
+      "title": "ruby使用のX,instagram,threadsなどのスクレイピングについて",
+      "link": "https://www.lancers.jp/work/detail/5491704",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 40,
+      "scraped_at": "2026-02-15T02:37:59.524225"
+    },
+    {
+      "title": "スクレイピング高速化サポート募集",
+      "link": "https://www.lancers.jp/work/detail/5491672",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 40,
+      "scraped_at": "2026-02-15T02:37:59.542634"
+    },
+    {
+      "title": "bubbleで構築したサイトの修正対応",
+      "link": "https://www.lancers.jp/work/detail/5491569",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2026-02-15T02:37:59.578703"
+    },
+    {
+      "title": "bubbleで構築したサイトの修正対応",
+      "link": "https://www.lancers.jp/work/detail/5491578",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 30,
+      "scraped_at": "2026-02-15T02:37:59.597228"
+    },
+    {
+      "title": "【急募】C2Cスキル売買プラットフォーム構築の依頼",
+      "link": "https://www.lancers.jp/work/detail/5491832",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 25,
+      "scraped_at": "2026-02-15T02:37:59.473141"
+    },
+    {
+      "title": "【緊急】Ticketmasterのチケット購入後のトラブル解決依頼",
+      "link": "https://www.lancers.jp/work/detail/5491983",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-02-15T02:37:59.412739"
+    },
+    {
+      "title": "【急募】Githubとロリポップサーバーの連携不具合解決依頼",
+      "link": "https://www.lancers.jp/work/detail/5491736",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-02-15T02:37:59.493665"
+    },
+    {
+      "title": "【3,000円 / 急募】GitHubとVercelの連携設定エラーの解消",
+      "link": "https://www.lancers.jp/work/detail/5491643",
+      "price": "1,000 ~ 5,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-02-15T02:37:59.560373"
+    }
+  ]
+}
