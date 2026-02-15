@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-02-15T12:44:23.879361",
+  "count": 2,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "コンサル": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 2,
+    "no_skill_match": 1,
+    "multi_skill_match": 0,
+    "high_priority": 2,
+    "skill_match_rate": 50.0
+  },
+  "jobs": [
+    {
+      "title": "【急募】Salesforce 認定 Service Cloud コンサルタントを探しています!",
+      "link": "https://www.lancers.jp/work/detail/5492003",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "コンサル",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 43,
+      "scraped_at": "2026-02-15T12:44:23.762304"
+    },
+    {
+      "title": "【緊急】Ticketmasterのチケット購入後のトラブル解決依頼",
+      "link": "https://www.lancers.jp/work/detail/5491983",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-02-15T12:44:23.782395"
+    }
+  ]
+}
