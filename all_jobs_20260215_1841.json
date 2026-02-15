@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-02-15T18:41:47.049550",
+  "count": 3,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "ツール": 1,
+    "スクレイピング": 1,
+    "サイト": 1,
+    "コンサル": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 3,
+    "no_skill_match": 1,
+    "multi_skill_match": 1,
+    "high_priority": 3,
+    "skill_match_rate": 66.7
+  },
+  "jobs": [
+    {
+      "title": "海外仕入れ元サイト→ツールを動かす為のCSVファイルに週1で自動抽出の制作(自動/スクレイピング)",
+      "link": "https://www.lancers.jp/work/detail/5251319",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 135,
+      "scraped_at": "2026-02-15T18:41:46.869988"
+    },
+    {
+      "title": "【急募】Salesforce 認定 Service Cloud コンサルタントを探しています!",
+      "link": "https://www.lancers.jp/work/detail/5492003",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "コンサル",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 43,
+      "scraped_at": "2026-02-15T18:41:46.888849"
+    },
+    {
+      "title": "【緊急】Ticketmasterのチケット購入後のトラブル解決依頼",
+      "link": "https://www.lancers.jp/work/detail/5491983",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-02-15T18:41:46.908383"
+    }
+  ]
+}
