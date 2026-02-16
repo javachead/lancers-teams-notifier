@@ -1,0 +1,112 @@
+{
+  "timestamp": "2026-02-16T01:57:37.764325",
+  "count": 4,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "サイト": 2,
+    "ツール": 1,
+    "スクレイピング": 1,
+    "管理": 1,
+    "コンサル": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 4,
+    "no_skill_match": 1,
+    "multi_skill_match": 2,
+    "high_priority": 4,
+    "skill_match_rate": 75.0
+  },
+  "jobs": [
+    {
+      "title": "海外仕入れ元サイト→ツールを動かす為のCSVファイルに週1で自動抽出の制作(自動/スクレイピング)",
+      "link": "https://www.lancers.jp/work/detail/5251319",
+      "price": "5,000 円 ~ 10,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "スクレイピング",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 3,
+      "priority_score": 135,
+      "scraped_at": "2026-02-16T01:57:37.569059"
+    },
+    {
+      "title": "地域情報サイト 店舗データ自動収集・一括管理システム構築",
+      "link": "https://www.lancers.jp/work/detail/5492383",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 85,
+      "scraped_at": "2026-02-16T01:57:37.508689"
+    },
+    {
+      "title": "【急募】Salesforce 認定 Service Cloud コンサルタントを探しています!",
+      "link": "https://www.lancers.jp/work/detail/5492003",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "コンサル",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 43,
+      "scraped_at": "2026-02-16T01:57:37.589411"
+    },
+    {
+      "title": "【緊急】Ticketmasterのチケット購入後のトラブル解決依頼",
+      "link": "https://www.lancers.jp/work/detail/5491983",
+      "price": "10,000 円 ~ 20,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [],
+      "skill_count": 0,
+      "priority_score": 10,
+      "scraped_at": "2026-02-16T01:57:37.611692"
+    }
+  ]
+}
