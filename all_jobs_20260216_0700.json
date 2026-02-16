@@ -1,0 +1,233 @@
+{
+  "timestamp": "2026-02-16T07:00:38.605746",
+  "count": 8,
+  "type": "全案件リスト",
+  "skill_summary": {
+    "開発": 4,
+    "API": 3,
+    "管理": 3,
+    "ツール": 2,
+    "システム開発": 2,
+    "AI": 1,
+    "Ai": 1,
+    "自動化": 1,
+    "サイト": 1
+  },
+  "skill_distribution": {
+    "total_jobs": 8,
+    "no_skill_match": 0,
+    "multi_skill_match": 6,
+    "high_priority": 8,
+    "skill_match_rate": 100.0
+  },
+  "jobs": [
+    {
+      "title": "製造業向け図面自動生成システムの開発・ツール化を支援してくださるエンジニア募集(AI/バックエンド)",
+      "link": "https://www.lancers.jp/work/detail/5460562",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "AI",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "Ai",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 435,
+      "scraped_at": "2026-02-16T07:00:38.377309"
+    },
+    {
+      "title": "【せどり×ツール製作】APIを使用したせどりツールを製作できるエンジニアさんを募集します♪",
+      "link": "https://www.lancers.jp/work/detail/5217096",
+      "price": "20,000 円 ~ 50,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "ツール",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 243,
+      "scraped_at": "2026-02-16T07:00:38.440310"
+    },
+    {
+      "title": "施設管理・現場業務向け チェックリスト業務の自動化・報告書作成システム開発エンジニア募集",
+      "link": "https://www.lancers.jp/work/detail/5460563",
+      "price": "300,000 円 ~ 500,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "自動化",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 4,
+      "priority_score": 220,
+      "scraped_at": "2026-02-16T07:00:38.358279"
+    },
+    {
+      "title": "【Zapier保守・運用サポート】既存フローの管理・調整をお任せできる方募集(時給1,200円程度)",
+      "link": "https://www.lancers.jp/work/detail/5488168",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 213,
+      "scraped_at": "2026-02-16T07:00:38.318153"
+    },
+    {
+      "title": "【社内用】Temu APIを使って受注データ、在庫データ、注文ステータスを更新してほしい",
+      "link": "https://www.lancers.jp/work/detail/5492576",
+      "price": "50,000 円 ~ 100,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "API",
+          "priority": "超高優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 188,
+      "scraped_at": "2026-02-16T07:00:38.401548"
+    },
+    {
+      "title": "【エンジニア募集】香水自販機制御システム開発",
+      "link": "https://www.lancers.jp/work/detail/5492441",
+      "price": "500,000 円 ~ 1,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        },
+        {
+          "skill": "システム開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 125,
+      "scraped_at": "2026-02-16T07:00:38.420726"
+    },
+    {
+      "title": "地域情報サイト 店舗データ自動収集・一括管理システム構築",
+      "link": "https://www.lancers.jp/work/detail/5492383",
+      "price": "1,000,000 円 ~ 3,000,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "サイト",
+          "priority": "低優先度"
+        },
+        {
+          "skill": "管理",
+          "priority": "低優先度"
+        }
+      ],
+      "skill_count": 2,
+      "priority_score": 85,
+      "scraped_at": "2026-02-16T07:00:38.474220"
+    },
+    {
+      "title": "【急募】ダウンロードスクリプト開発とBOXアップロード依頼",
+      "link": "https://www.lancers.jp/work/detail/5492631",
+      "price": "100,000 円 ~ 200,000 円 / 固定",
+      "deadline": "期限情報なし",
+      "applicant_count": "0",
+      "recruitment_count": "1",
+      "client_name": "依頼者情報なし",
+      "status": "募集中",
+      "urgency": false,
+      "category": "システム開発",
+      "skill_matches": [
+        {
+          "skill": "開発",
+          "priority": "中優先度"
+        }
+      ],
+      "skill_count": 1,
+      "priority_score": 68,
+      "scraped_at": "2026-02-16T07:00:38.338476"
+    }
+  ]
+}
